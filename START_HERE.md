@@ -12,7 +12,10 @@ cd wp-vuln-miner
 mkdir -p plugins findings disclosure   # findings/ + disclosure/ ship empty-ish
 ```
 
-Linux/macOS: everything works out of the box. Windows: use WSL2.
+Linux: as-is. macOS (Apple Silicon): `brew install php composer podman podman-compose`
++ `podman machine init && podman machine start` — then swap `docker compose` for
+`podman-compose` everywhere below (daemonless, no Docker Desktop license).
+Windows: WSL2 + podman or Docker Desktop.
 
 ## 1. Refresh the CVE intelligence (5 min/week)
 
