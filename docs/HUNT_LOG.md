@@ -16,3 +16,19 @@
 - volume: 1000+ plugins, --browse updated (higher bug density than new)
 - new detectors planned: nonce-action mismatch, ownership-check-missing
   IDORs (object access by raw ID), option-value poisoning, cap-map mismatch
+
+## Logic-pass round (logic_pass.py, same 250-plugin corpus)
+
+- 102 raw candidates -> 80 after vendor/ filter -> 80 triaged by hand
+- FP classes found & documented:
+  * Freemius SDK `active_plugins` writes (bundled SDK, not per-plugin bugs)
+  * `update_user_meta(get_current_user_id(), ...)` = own-id, not IDOR
+  * diamond-sierra 2FA challenge deletion = re-challenge on next login,
+    no bypass (annoyance DoS at most)
+  * aluleth membership download: levels_of(0) = empty for guests, sane
+  * slotvane ajax_import: nonce + manage_options + option-must-exist
+  * abece privacy: bound to WP-core privacy officer caps + core nonces
+
+**Batch-1 verdict: 0 confirmed 0-day / 250 plugins.** Fresh-plugin population
+ships with modern guards (nonces, cap checks, token auth). Bug density lives
+in the aged/popular-tail population -- batch 2 targets browse=updated.
