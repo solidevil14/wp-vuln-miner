@@ -32,3 +32,22 @@
 **Batch-1 verdict: 0 confirmed 0-day / 250 plugins.** Fresh-plugin population
 ships with modern guards (nonces, cap checks, token auth). Bug density lives
 in the aged/popular-tail population -- batch 2 targets browse=updated.
+
+## Sweep-2 round (sweep2.py + manual deep-dives, same corpus)
+
+New sweeps: nopriv write-op inventory, role escalation, WC price tamper,
+extract/parse_str pollution, weak token compares, raw move_uploaded_file,
+REST weak caps, nopriv+userdata exposure.
+
+~30 leads triaged by hand, deepest: elegant-profile-for-woocommerce
+(self-built OTP auth: wp_rand + HMAC-hash + hash_equals + 5-try limit +
+per-phone/IP throttles — clean), particod (manage_woocommerce +
+order-bound nonce + GET_LOCK serialization — clean), bookingistic
+(Capabilities::verify before payload — clean).
+
+## BATCH-1 FINAL VERDICT
+
+**250 plugins, 4 analysis layers, ~30 manual deep-dives: 0 confirmed
+vulnerabilities.** The browse=new population ships with modern guards.
+The bug-dense population is the aged one (browse=updated, half-maintained
+2020-2022 plugins) — that is batch 2.
