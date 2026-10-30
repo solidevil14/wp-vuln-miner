@@ -1,0 +1,4801 @@
+{
+"-none-": [
+"CVE-2025-11816",
+"CVE-2025-11833",
+"CVE-2025-11499",
+"CVE-2025-11755",
+"CVE-2025-10896",
+"CVE-2025-12156",
+"CVE-2025-12400",
+"CVE-2025-8871",
+"CVE-2025-11835",
+"CVE-2025-11373",
+"CVE-2025-12384",
+"CVE-2025-12563",
+"CVE-2025-60190",
+"CVE-2025-11972",
+"CVE-2025-12498",
+"CVE-2025-12399",
+"CVE-2025-11170",
+"CVE-2025-12665",
+"CVE-2025-12633",
+"CVE-2025-12620",
+"CVE-2025-12015",
+"CVE-2025-8994",
+"CVE-2025-12639",
+"CVE-2025-13069",
+"CVE-2025-12057",
+"CVE-2025-12174",
+"CVE-2025-11003",
+"CVE-2025-11773",
+"CVE-2025-13149",
+"CVE-2025-13156",
+"CVE-2025-12750",
+"CVE-2025-12973",
+"CVE-2025-13558",
+"CVE-2025-12061",
+"CVE-2025-9191",
+"CVE-2025-13143",
+"CVE-2025-12971",
+"CVE-2025-13606",
+"CVE-2025-12483",
+"CVE-2025-13140",
+"CVE-2025-10304",
+"CVE-2025-11759",
+"CVE-2025-12130",
+"CVE-2025-13922",
+"CVE-2025-12091",
+"CVE-2025-13070",
+"CVE-2025-13924",
+"CVE-2025-12963",
+"CVE-2025-13314",
+"CVE-2025-13408",
+"CVE-2025-12407",
+"CVE-2025-11164",
+"CVE-2025-12362",
+"CVE-2025-13077",
+"CVE-2025-13092",
+"CVE-2025-13093",
+"CVE-2025-14288",
+"CVE-2025-14446",
+"CVE-2025-14508",
+"CVE-2025-9218",
+"CVE-2025-13794",
+"CVE-2025-13741",
+"CVE-2025-13880",
+"CVE-2025-13750",
+"CVE-2025-14061",
+"CVE-2025-13641",
+"CVE-2025-12361",
+"CVE-2025-12980",
+"CVE-2025-69022",
+"CVE-2025-14428",
+"CVE-2025-14047",
+"CVE-2025-11370",
+"CVE-2025-13812",
+"CVE-2025-14371",
+"CVE-2025-13722",
+"CVE-2025-12640",
+"CVE-2025-13749",
+"CVE-2025-14782",
+"CVE-2025-14657",
+"CVE-2025-14943",
+"CVE-2025-14976",
+"CVE-2011-10041",
+"CVE-2025-12984",
+"CVE-2025-14978",
+"CVE-2025-15347",
+"CVE-2026-0927",
+"CVE-2025-13921",
+"CVE-2026-24596",
+"CVE-2025-13139",
+"CVE-2025-13194",
+"CVE-2025-13205",
+"CVE-2026-0911",
+"CVE-2026-0593",
+"CVE-2025-14973",
+"CVE-2026-0825",
+"CVE-2025-14616",
+"CVE-2025-15525",
+"CVE-2026-0658",
+"CVE-2025-13192",
+"CVE-2025-13416",
+"CVE-2025-10753",
+"CVE-2025-15491",
+"CVE-2025-15400",
+"CVE-2026-1235",
+"CVE-2026-1357",
+"CVE-2025-13391",
+"CVE-2026-1983",
+"CVE-2026-0929",
+"CVE-2025-12062",
+"CVE-2026-0829",
+"CVE-2026-2495",
+"CVE-2026-1942",
+"CVE-2026-2386",
+"CVE-2025-12500",
+"CVE-2025-12845",
+"CVE-2025-13438",
+"CVE-2025-13930",
+"CVE-2025-14427",
+"CVE-2025-14339",
+"CVE-2026-23694",
+"CVE-2026-1916",
+"CVE-2026-1565",
+"CVE-2026-1542",
+"CVE-2026-3180",
+"CVE-2026-2269",
+"CVE-2026-1674",
+"CVE-2026-2599",
+"CVE-2026-1720",
+"CVE-2026-1128",
+"CVE-2026-2446",
+"CVE-2026-3589",
+"CVE-2026-2488",
+"CVE-2026-2494",
+"CVE-2026-1508",
+"CVE-2026-1781",
+"CVE-2026-2626",
+"CVE-2026-3903",
+"CVE-2025-15473",
+"CVE-2026-2233",
+"CVE-2026-2992",
+"CVE-2026-1463",
+"CVE-2026-1503",
+"CVE-2026-1800",
+"CVE-2026-4087",
+"CVE-2026-2580",
+"CVE-2026-1969",
+"CVE-2026-2412",
+"CVE-2026-33290",
+"CVE-2026-4283",
+"CVE-2026-4331",
+"CVE-2026-3831",
+"CVE-2026-3571",
+"CVE-2026-3445",
+"CVE-2026-2263",
+"CVE-2026-1865",
+"CVE-2023-54359",
+"CVE-2026-4977",
+"CVE-2025-15441",
+"CVE-2026-3830",
+"CVE-2026-3017",
+"CVE-2026-4109",
+"CVE-2026-1314",
+"CVE-2026-4812",
+"CVE-2026-3642",
+"CVE-2026-4949",
+"CVE-2026-3773",
+"CVE-2026-0718",
+"CVE-2026-4853",
+"CVE-2026-6674",
+"CVE-2026-5464",
+"CVE-2025-11762",
+"CVE-2026-7649",
+"CVE-2026-3456",
+"CVE-2026-5192",
+"CVE-2026-7252",
+"CVE-2026-4935",
+"CVE-2026-5127",
+"CVE-2021-47941",
+"CVE-2022-50954",
+"CVE-2022-50955",
+"CVE-2022-50956",
+"CVE-2026-4301",
+"CVE-2026-6708",
+"CVE-2026-5371",
+"CVE-2026-7051",
+"CVE-2026-7635",
+"CVE-2026-6929",
+"CVE-2026-4607",
+"CVE-2026-4608",
+"CVE-2026-4609",
+"CVE-2020-37169",
+"CVE-2026-3829",
+"CVE-2021-47965",
+"CVE-2025-4202",
+"CVE-2021-47977",
+"CVE-2021-47979",
+"CVE-2018-25324",
+"CVE-2018-25329",
+"CVE-2026-1631",
+"CVE-2026-6379",
+"CVE-2026-6381",
+"CVE-2026-8096",
+"CVE-2026-6391",
+"CVE-2026-2518",
+"CVE-2026-8692",
+"CVE-2026-9011",
+"CVE-2018-25346",
+"CVE-2018-25347",
+"CVE-2018-25352",
+"CVE-2026-8174",
+"CVE-2026-8903",
+"CVE-2026-7618",
+"CVE-2026-4888",
+"CVE-2026-9618",
+"CVE-2026-8689",
+"CVE-2026-9015",
+"CVE-2026-8382",
+"CVE-2019-25727",
+"CVE-2019-25745",
+"CVE-2026-5411",
+"CVE-2026-6448",
+"CVE-2026-8976",
+"CVE-2022-50953",
+"CVE-2024-58348",
+"CVE-2026-8904",
+"CVE-2026-4986",
+"CVE-2026-4058",
+"CVE-2016-20062",
+"CVE-2016-20065",
+"CVE-2017-20243",
+"CVE-2017-20244",
+"CVE-2017-20245",
+"CVE-2017-20246",
+"CVE-2017-20247",
+"CVE-2026-9067",
+"CVE-2026-9062",
+"CVE-2026-2470",
+"CVE-2016-20071",
+"CVE-2016-20072",
+"CVE-2016-20073",
+"CVE-2016-20074",
+"CVE-2016-20077",
+"CVE-2016-20080",
+"CVE-2016-20081",
+"CVE-2016-20082",
+"CVE-2016-20083",
+"CVE-2018-25436",
+"CVE-2025-69129",
+"CVE-2025-69131",
+"CVE-2025-69135",
+"CVE-2026-12115",
+"CVE-2026-8383",
+"CVE-2026-10029",
+"CVE-2026-11784",
+"CVE-2026-9199",
+"CVE-2026-9860",
+"CVE-2026-10034",
+"CVE-2026-8713",
+"CVE-2026-9843",
+"CVE-2026-7859",
+"CVE-2026-7617",
+"CVE-2026-12937",
+"CVE-2026-13226",
+"CVE-2026-1869",
+"CVE-2026-13331",
+"CVE-2026-13333",
+"CVE-2026-11773",
+"CVE-2026-12471",
+"CVE-2026-9233",
+"CVE-2026-12133",
+"CVE-2026-11592",
+"CVE-2026-12122",
+"CVE-2026-12134",
+"CVE-2026-12472",
+"CVE-2026-14029",
+"CVE-2026-9145",
+"CVE-2026-7311",
+"CVE-2026-12729",
+"CVE-2026-9230",
+"CVE-2026-5137",
+"CVE-2026-58480",
+"CVE-2026-12406",
+"CVE-2026-13011",
+"CVE-2026-14245",
+"CVE-2026-14342",
+"CVE-2026-14372",
+"CVE-2026-4275",
+"CVE-2026-9235",
+"CVE-2026-9237",
+"CVE-2026-9240",
+"CVE-2026-11818",
+"CVE-2026-15287",
+"CVE-2026-15289",
+"CVE-2026-15290",
+"CVE-2025-11977",
+"CVE-2026-15104",
+"CVE-2026-6440",
+"CVE-2026-11990",
+"CVE-2026-12918",
+"CVE-2026-13010",
+"CVE-2026-13039",
+"CVE-2026-15072",
+"CVE-2026-15073",
+"CVE-2026-1832",
+"CVE-2026-4661",
+"CVE-2026-12583",
+"CVE-2026-12988",
+"CVE-2026-11579",
+"CVE-2026-12512",
+"CVE-2026-12409",
+"CVE-2026-11866",
+"CVE-2026-12395",
+"CVE-2026-12684",
+"CVE-2026-12907",
+"CVE-2026-15008",
+"CVE-2026-15106",
+"CVE-2026-15610",
+"CVE-2026-13352",
+"CVE-2026-15349",
+"CVE-2026-15457",
+"CVE-2026-11575",
+"CVE-2026-10755",
+"CVE-2026-11349",
+"CVE-2026-11868",
+"CVE-2026-12723",
+"CVE-2026-12898",
+"CVE-2026-12973",
+"CVE-2026-13156",
+"CVE-2026-13432",
+"CVE-2026-13693",
+"CVE-2026-13694",
+"CVE-2026-14185",
+"CVE-2026-8082",
+"CVE-2026-65049",
+"CVE-2026-65050",
+"CVE-2026-12987",
+"CVE-2026-12082",
+"CVE-2026-14282",
+"CVE-2026-15786",
+"CVE-2026-16078",
+"CVE-2026-15212",
+"CVE-2026-15420",
+"CVE-2026-12689",
+"CVE-2026-12690",
+"CVE-2026-14955",
+"CVE-2026-13390",
+"CVE-2026-13714",
+"CVE-2026-14189",
+"CVE-2026-12124",
+"CVE-2026-14490",
+"CVE-2026-14821",
+"CVE-2026-14924",
+"CVE-2026-16585",
+"CVE-2026-15670",
+"CVE-2026-15671",
+"CVE-2026-15673",
+"CVE-2026-15025",
+"CVE-2026-15411",
+"CVE-2026-17166",
+"CVE-2026-11974",
+"CVE-2026-13692",
+"CVE-2026-14234",
+"CVE-2026-9720",
+"CVE-2026-14270",
+"CVE-2026-16610",
+"CVE-2026-11867",
+"CVE-2026-12500",
+"CVE-2026-13395",
+"CVE-2026-14239",
+"CVE-2026-14923",
+"CVE-2026-15054",
+"CVE-2026-15153",
+"CVE-2026-15252",
+"CVE-2026-12720",
+"CVE-2026-12721",
+"CVE-2026-14317",
+"CVE-2026-14554",
+"CVE-2026-14862",
+"CVE-2026-14929",
+"CVE-2026-14930",
+"CVE-2026-15258",
+"CVE-2026-15381",
+"CVE-2026-18437",
+"CVE-2026-15006",
+"CVE-2026-13157",
+"CVE-2026-13158",
+"CVE-2026-13596",
+"CVE-2026-13729",
+"CVE-2026-15244",
+"CVE-2026-15932",
+"CVE-2026-15988",
+"CVE-2026-11995",
+"CVE-2026-15601",
+"CVE-2026-16087",
+"CVE-2026-17580",
+"CVE-2026-17605",
+"CVE-2026-13389",
+"CVE-2026-15248",
+"CVE-2026-15939",
+"CVE-2026-16042",
+"CVE-2026-16062",
+"CVE-2026-16064",
+"CVE-2026-16285",
+"CVE-2026-16292",
+"CVE-2026-16540",
+"CVE-2025-15672",
+"CVE-2025-15673",
+"CVE-2026-12872",
+"CVE-2026-12965",
+"CVE-2026-15254",
+"CVE-2026-15930",
+"CVE-2026-16057",
+"CVE-2026-16060",
+"CVE-2026-16250",
+"CVE-2026-16274",
+"CVE-2026-16276",
+"CVE-2026-16289",
+"CVE-2026-16297",
+"CVE-2026-16300",
+"CVE-2026-16532",
+"CVE-2026-16539",
+"CVE-2026-16572",
+"CVE-2026-14872",
+"CVE-2026-15958",
+"CVE-2026-16035",
+"CVE-2026-16056",
+"CVE-2026-16546",
+"CVE-2026-16548",
+"CVE-2026-16618",
+"CVE-2026-11421",
+"CVE-2026-15918",
+"CVE-2026-15941",
+"CVE-2026-5062",
+"CVE-2026-14553",
+"CVE-2026-15360",
+"CVE-2026-16561",
+"CVE-2026-16605",
+"CVE-2026-16613",
+"CVE-2026-16940",
+"CVE-2026-17515",
+"CVE-2026-11920",
+"CVE-2026-11977",
+"CVE-2026-18933",
+"CVE-2026-12713",
+"CVE-2026-14204",
+"CVE-2026-14313",
+"CVE-2026-16065",
+"CVE-2026-16290",
+"CVE-2026-16734",
+"CVE-2025-9266",
+"CVE-2026-15246",
+"CVE-2026-3430",
+"CVE-2025-15674",
+"CVE-2026-13399",
+"CVE-2026-15359",
+"CVE-2026-15361",
+"CVE-2026-16038",
+"CVE-2026-16041",
+"CVE-2026-16258",
+"CVE-2026-16262",
+"CVE-2026-16263",
+"CVE-2026-16267",
+"CVE-2026-16589",
+"CVE-2026-16608",
+"CVE-2026-16955",
+"CVE-2026-16965",
+"CVE-2026-16992",
+"CVE-2026-17017",
+"CVE-2026-17044",
+"CVE-2026-18037",
+"CVE-2026-18465",
+"CVE-2026-18473",
+"CVE-2026-18603",
+"CVE-2026-13170",
+"CVE-2026-14238",
+"CVE-2026-14941",
+"CVE-2026-15229",
+"CVE-2026-15237",
+"CVE-2026-16949",
+"CVE-2026-16985",
+"CVE-2026-17021",
+"CVE-2026-18030",
+"CVE-2026-18666",
+"CVE-2026-18934",
+"CVE-2026-19049",
+"CVE-2026-19053",
+"CVE-2026-19074",
+"CVE-2026-19089",
+"CVE-2026-73033",
+"CVE-2026-14548",
+"CVE-2026-14549",
+"CVE-2026-13613",
+"CVE-2026-15039",
+"CVE-2026-15388",
+"CVE-2026-16977",
+"CVE-2026-18035",
+"CVE-2026-18046",
+"CVE-2026-18057",
+"CVE-2026-18230",
+"CVE-2026-18391",
+"CVE-2026-18474",
+"CVE-2026-18789",
+"CVE-2026-19052",
+"CVE-2026-19088",
+"CVE-2026-14332",
+"CVE-2026-15205",
+"CVE-2026-16810",
+"CVE-2026-15162",
+"CVE-2026-8840",
+"CVE-2026-15453",
+"CVE-2026-16586",
+"CVE-2026-18387",
+"CVE-2026-18807",
+"CVE-2026-18438",
+"CVE-2026-13167",
+"CVE-2026-15963",
+"CVE-2026-15056",
+"CVE-2026-15345",
+"CVE-2026-15351",
+"CVE-2026-15384",
+"CVE-2026-18653",
+"CVE-2026-19725",
+"CVE-2026-19726",
+"CVE-2026-19728",
+"CVE-2026-17604",
+"CVE-2026-18347",
+"CVE-2024-13784",
+"CVE-2026-19942",
+"CVE-2026-12983",
+"CVE-2026-13173",
+"CVE-2026-16616",
+"CVE-2026-16950",
+"CVE-2026-18051",
+"CVE-2026-18777",
+"CVE-2026-18779",
+"CVE-2026-15049",
+"CVE-2026-19699",
+"CVE-2026-14601",
+"CVE-2026-16577",
+"CVE-2026-16959",
+"CVE-2026-16962",
+"CVE-2026-15046",
+"CVE-2026-17559",
+"CVE-2026-76057",
+"CVE-2026-76074",
+"CVE-2026-18027",
+"CVE-2026-14853",
+"CVE-2026-32563",
+"CVE-2026-15023",
+"CVE-2026-19801",
+"CVE-2026-10627",
+"CVE-2026-14280",
+"CVE-2026-17587",
+"CVE-2026-13172",
+"CVE-2026-13406",
+"CVE-2026-14550",
+"CVE-2026-19094",
+"CVE-2026-74928",
+"CVE-2026-75797",
+"CVE-2026-75798",
+"CVE-2026-77694",
+"CVE-2026-77757",
+"CVE-2026-77790",
+"CVE-2026-18431",
+"CVE-2026-18080",
+"CVE-2026-13414",
+"CVE-2026-19454",
+"CVE-2026-76549",
+"CVE-2026-77018",
+"CVE-2026-78137",
+"CVE-2026-32564",
+"CVE-2026-18983",
+"CVE-2026-12514",
+"CVE-2026-14558",
+"CVE-2026-77701",
+"CVE-2026-79706",
+"CVE-2026-16061",
+"CVE-2026-17522",
+"CVE-2026-18233",
+"CVE-2026-18234",
+"CVE-2026-19430",
+"CVE-2026-76547",
+"CVE-2026-77704",
+"CVE-2026-77786",
+"CVE-2026-80488",
+"CVE-2026-81346",
+"CVE-2026-19722",
+"CVE-2026-82607",
+"CVE-2026-77013",
+"CVE-2026-75865",
+"CVE-2026-19948",
+"CVE-2026-75921",
+"CVE-2026-77189",
+"CVE-2026-13611",
+"CVE-2026-14215",
+"CVE-2026-19116",
+"CVE-2026-19704",
+"CVE-2026-74927",
+"CVE-2026-77787",
+"CVE-2026-81426",
+"CVE-2026-81427",
+"CVE-2026-81432",
+"CVE-2026-82182",
+"CVE-2023-3360",
+"CVE-2025-15485",
+"CVE-2025-15489",
+"CVE-2025-15490",
+"CVE-2025-8945",
+"CVE-2025-9314",
+"CVE-2026-17563",
+"CVE-2026-2688",
+"CVE-2026-4357",
+"CVE-2026-78153",
+"CVE-2026-8151",
+"CVE-2026-82023",
+"CVE-2025-15691",
+"CVE-2026-79632",
+"CVE-2026-82186",
+"CVE-2026-82193",
+"CVE-2026-84066",
+"CVE-2026-82923",
+"CVE-2025-15693",
+"CVE-2026-15247",
+"CVE-2026-82304",
+"CVE-2026-84221",
+"CVE-2026-84898",
+"CVE-2026-84901",
+"CVE-2026-84927",
+"CVE-2026-84937",
+"CVE-2026-10196",
+"CVE-2026-85038",
+"CVE-2026-12956",
+"CVE-2026-15406",
+"CVE-2026-15667",
+"CVE-2026-19800",
+"CVE-2026-11821",
+"CVE-2026-14962",
+"CVE-2026-18042",
+"CVE-2026-75861",
+"CVE-2026-80341",
+"CVE-2026-82184",
+"CVE-2026-82185",
+"CVE-2026-82848",
+"CVE-2026-84068",
+"CVE-2026-84113",
+"CVE-2026-85132",
+"CVE-2026-85133",
+"CVE-2026-26212",
+"CVE-2026-19840",
+"CVE-2026-77770",
+"CVE-2026-78361",
+"CVE-2026-82925",
+"CVE-2026-11496",
+"CVE-2026-86779",
+"CVE-2026-86815",
+"CVE-2026-80491",
+"CVE-2026-81090",
+"CVE-2026-81402",
+"CVE-2026-82845",
+"CVE-2026-84023",
+"CVE-2026-84024",
+"CVE-2026-84047",
+"CVE-2026-84099",
+"CVE-2026-84171",
+"CVE-2026-87797",
+"CVE-2026-87919",
+"CVE-2026-11355",
+"CVE-2026-16482",
+"CVE-2026-85198",
+"CVE-2026-74933",
+"CVE-2026-81648",
+"CVE-2026-88802",
+"CVE-2026-82519",
+"CVE-2026-89023",
+"CVE-2026-16593",
+"CVE-2026-78088",
+"CVE-2026-74926",
+"CVE-2026-76552",
+"CVE-2026-76555",
+"CVE-2026-76556",
+"CVE-2026-76557",
+"CVE-2026-77702",
+"CVE-2026-78472",
+"CVE-2026-84905",
+"CVE-2026-84907",
+"CVE-2026-85131",
+"CVE-2026-87860",
+"CVE-2026-89030",
+"CVE-2026-90923",
+"CVE-2026-91009",
+"CVE-2026-91010",
+"CVE-2026-91015",
+"CVE-2026-87963",
+"CVE-2026-87831",
+"CVE-2026-17086",
+"CVE-2026-84904",
+"CVE-2026-87767",
+"CVE-2026-87770",
+"CVE-2026-87771",
+"CVE-2026-87774",
+"CVE-2026-87775",
+"CVE-2026-89007",
+"CVE-2026-18317",
+"CVE-2026-75017",
+"CVE-2026-88994",
+"CVE-2026-16777",
+"CVE-2026-85410",
+"CVE-2026-93031",
+"CVE-2026-89334",
+"CVE-2026-84750",
+"CVE-2026-85574",
+"CVE-2026-86591",
+"CVE-2026-88926",
+"CVE-2026-92403",
+"CVE-2026-92430",
+"CVE-2026-92435",
+"CVE-2026-11899",
+"CVE-2026-81650",
+"CVE-2026-85017",
+"CVE-2026-92410",
+"CVE-2026-92965",
+"CVE-2026-82187",
+"CVE-2026-86802",
+"CVE-2026-91827",
+"CVE-2026-93341",
+"CVE-2026-93342",
+"CVE-2026-93343",
+"CVE-2026-93344",
+"CVE-2022-4997",
+"CVE-2026-18364",
+"CVE-2026-83555",
+"CVE-2026-84027",
+"CVE-2026-84098",
+"CVE-2026-84742",
+"CVE-2026-84743",
+"CVE-2026-86785",
+"CVE-2026-86842",
+"CVE-2026-87069",
+"CVE-2026-87074",
+"CVE-2026-87979",
+"CVE-2026-87981",
+"CVE-2026-90951",
+"CVE-2026-91024",
+"CVE-2026-93507",
+"CVE-2026-93508",
+"CVE-2026-93510",
+"CVE-2026-87848",
+"CVE-2026-80338",
+"CVE-2026-80513",
+"CVE-2026-82195",
+"CVE-2026-88843",
+"CVE-2026-88845",
+"CVE-2026-88846",
+"CVE-2026-88847",
+"CVE-2026-77193",
+"CVE-2026-3253",
+"CVE-2026-19775",
+"CVE-2026-78394",
+"CVE-2026-92829",
+"CVE-2026-93899",
+"CVE-2026-13456",
+"CVE-2026-88848",
+"CVE-2026-84097",
+"CVE-2026-89237",
+"CVE-2026-96524",
+"CVE-2026-96525",
+"CVE-2026-96532",
+"CVE-2026-84069",
+"CVE-2026-86841",
+"CVE-2026-96896",
+"CVE-2026-96897",
+"CVE-2026-97227",
+"CVE-2026-89300",
+"CVE-2026-89303",
+"CVE-2026-93000",
+"CVE-2026-85576",
+"CVE-2026-91051",
+"CVE-2026-93580",
+"CVE-2026-94297",
+"CVE-2026-101147",
+"CVE-2026-81809",
+"CVE-2026-89296",
+"CVE-2026-90974",
+"CVE-2026-96200",
+"CVE-2026-91023",
+"CVE-2026-94298",
+"CVE-2026-79618",
+"CVE-2026-85005",
+"CVE-2026-90952",
+"CVE-2026-97219",
+"CVE-2014-125130",
+"CVE-2026-93428",
+"CVE-2026-103293",
+"CVE-2026-85015",
+"CVE-2026-85568",
+"CVE-2026-89236",
+"CVE-2026-92437",
+"CVE-2026-92923",
+"CVE-2026-94238",
+"CVE-2026-11601",
+"CVE-2026-75028",
+"CVE-2026-96267",
+"CVE-2026-93549",
+"CVE-2026-105701",
+"CVE-2026-89289",
+"CVE-2026-94299",
+"CVE-2026-103323",
+"CVE-2026-104667",
+"CVE-2026-104953",
+"CVE-2026-82211",
+"CVE-2026-97188",
+"CVE-2026-82627",
+"CVE-2026-105260",
+"CVE-2026-86827",
+"CVE-2026-86828",
+"CVE-2026-105190",
+"CVE-2025-15700",
+"CVE-2026-106095",
+"CVE-2026-106097",
+"CVE-2026-86850",
+"CVE-2026-87841",
+"CVE-2026-88931",
+"CVE-2026-85348",
+"CVE-2026-86851",
+"CVE-2026-87846",
+"CVE-2026-89235",
+"CVE-2026-104915",
+"CVE-2026-94589",
+"CVE-2026-104724",
+"CVE-2026-89301",
+"CVE-2026-104723",
+"CVE-2026-104741",
+"CVE-2026-104742",
+"CVE-2026-104752",
+"CVE-2026-104753",
+"CVE-2026-105976",
+"CVE-2026-105989",
+"CVE-2026-107321",
+"CVE-2026-87781",
+"CVE-2026-104728",
+"CVE-2026-96662",
+"CVE-2026-104722",
+"CVE-2026-62035",
+"CVE-2026-108695",
+"CVE-2026-103695",
+"CVE-2026-104028",
+"CVE-2026-104682",
+"CVE-2026-106029",
+"CVE-2026-107507",
+"CVE-2026-81420",
+"CVE-2026-81649",
+"CVE-2026-84251",
+"CVE-2026-84252",
+"CVE-2026-84253",
+"CVE-2026-84254",
+"CVE-2026-85121",
+"CVE-2026-86706",
+"CVE-2026-86717",
+"CVE-2026-88930",
+"CVE-2026-89195",
+"CVE-2026-89213",
+"CVE-2026-89214",
+"CVE-2026-89232",
+"CVE-2026-89234",
+"CVE-2026-89283",
+"CVE-2026-89285",
+"CVE-2026-89287",
+"CVE-2026-89297",
+"CVE-2026-89299",
+"CVE-2026-89302",
+"CVE-2026-89304",
+"CVE-2026-89305",
+"CVE-2026-93550",
+"CVE-2026-94235",
+"CVE-2026-107791",
+"CVE-2026-84166",
+"CVE-2026-89271",
+"CVE-2026-17092",
+"CVE-2026-103307",
+"CVE-2026-104751",
+"CVE-2026-105975",
+"CVE-2026-106098",
+"CVE-2026-106646",
+"CVE-2026-107158",
+"CVE-2026-107508",
+"CVE-2026-108064",
+"CVE-2026-89288",
+"CVE-2026-91076",
+"CVE-2026-92426",
+"CVE-2026-94254",
+"CVE-2026-94260",
+"CVE-2026-94360",
+"CVE-2026-110284",
+"CVE-2026-108587",
+"CVE-2026-17031",
+"CVE-2026-103304",
+"CVE-2026-104643",
+"CVE-2026-96537",
+"CVE-2026-103518",
+"CVE-2026-104769",
+"CVE-2026-93953",
+"CVE-2026-109221",
+"CVE-2026-103896",
+"CVE-2026-109414",
+"CVE-2026-103696",
+"CVE-2026-105973",
+"CVE-2026-107770",
+"CVE-2026-109982",
+"CVE-2026-110014",
+"CVE-2026-110015",
+"CVE-2026-110039",
+"CVE-2026-110179",
+"CVE-2026-91833",
+"CVE-2026-92553",
+"CVE-2026-111311",
+"CVE-2026-92766",
+"CVE-2026-110029",
+"CVE-2026-104734",
+"CVE-2026-92978",
+"CVE-2026-104122",
+"CVE-2026-104246",
+"CVE-2026-81343",
+"CVE-2026-81344",
+"CVE-2026-91074",
+"CVE-2026-92431",
+"CVE-2026-92433",
+"CVE-2026-110026",
+"CVE-2026-110032",
+"CVE-2026-110976",
+"CVE-2026-111041",
+"CVE-2026-87844",
+"CVE-2026-96534",
+"CVE-2026-106028",
+"CVE-2026-91047",
+"CVE-2026-94273",
+"CVE-2026-106010",
+"CVE-2026-94228",
+"CVE-2026-94230",
+"CVE-2026-94231",
+"CVE-2026-94272",
+"CVE-2026-94294",
+"CVE-2026-112328",
+"CVE-2026-112329",
+"CVE-2012-20002",
+"CVE-2015-20123",
+"CVE-2015-20124",
+"CVE-2015-20125",
+"CVE-2016-20100",
+"CVE-2016-20101",
+"CVE-2016-20103",
+"CVE-2026-82814",
+"CVE-2026-100145",
+"CVE-2026-102499",
+"CVE-2026-105992",
+"CVE-2026-105998",
+"CVE-2026-106932",
+"CVE-2026-107127",
+"CVE-2026-107128",
+"CVE-2026-107237",
+"CVE-2026-107788",
+"CVE-2026-109926",
+"CVE-2026-110651",
+"CVE-2026-110982",
+"CVE-2026-111957",
+"CVE-2026-86611",
+"CVE-2026-87837",
+"CVE-2026-87838",
+"CVE-2026-92997",
+"CVE-2026-92998",
+"CVE-2026-110369",
+"CVE-2026-109931",
+"CVE-2026-110010",
+"CVE-2026-110011",
+"CVE-2026-88849",
+"CVE-2017-20289",
+"CVE-2022-51021",
+"CVE-2026-110537",
+"CVE-2026-111738",
+"CVE-2026-112219",
+"CVE-2026-112230",
+"CVE-2026-113472",
+"CVE-2026-113501",
+"CVE-2026-94262",
+"CVE-2026-107887",
+"CVE-2026-107907",
+"CVE-2026-113491",
+"CVE-2026-97352",
+"CVE-2026-97353",
+"CVE-2026-111978",
+"CVE-2026-111980",
+"CVE-2026-111981",
+"CVE-2026-114740",
+"CVE-2026-114743",
+"CVE-2026-94295",
+"CVE-2026-116107",
+"CVE-2026-10752",
+"CVE-2026-107745",
+"CVE-2026-103688",
+"CVE-2026-104694",
+"CVE-2026-105997",
+"CVE-2026-106002",
+"CVE-2026-106647",
+"CVE-2026-107097",
+"CVE-2026-110691",
+"CVE-2026-111027",
+"CVE-2026-111032",
+"CVE-2026-111960",
+"CVE-2026-113485",
+"CVE-2026-113486",
+"CVE-2026-113813",
+"CVE-2026-115224",
+"CVE-2026-115281",
+"CVE-2026-15323",
+"CVE-2026-110185",
+"CVE-2026-116609",
+"CVE-2026-2839",
+"CVE-2026-110508",
+"CVE-2026-93904",
+"CVE-2026-103693",
+"CVE-2026-108685",
+"CVE-2026-110030",
+"CVE-2026-110983",
+"CVE-2026-113617",
+"CVE-2026-115245",
+"CVE-2026-115299",
+"CVE-2026-115300",
+"CVE-2026-115302",
+"CVE-2026-78395",
+"CVE-2026-89216",
+"CVE-2026-118192",
+"CVE-2026-80067",
+"CVE-2026-80069",
+"CVE-2026-114422",
+"CVE-2026-117572",
+"CVE-2026-118072",
+"CVE-2026-118101",
+"CVE-2026-118698",
+"CVE-2026-110732",
+"CVE-2026-112347"
+],
+"wpcom-member": [
+"CVE-2025-11920"
+],
+"wpforo-forum": [
+"CVE-2025-11740",
+"CVE-2025-13126",
+"CVE-2026-0910",
+"CVE-2026-1581",
+"CVE-2026-3666",
+"CVE-2026-4666",
+"CVE-2026-6248",
+"CVE-2026-5097",
+"CVE-2026-91092"
+],
+"folderly": [
+"CVE-2025-12038"
+],
+"qi-blocks": [
+"CVE-2025-12180"
+],
+"restful-content-syndication": [
+"CVE-2025-12171"
+],
+"wp-global-screen-options": [
+"CVE-2025-12069"
+],
+"viaads": [
+"CVE-2025-12070"
+],
+"label-plugins": [
+"CVE-2025-12401"
+],
+"elegance-menu": [
+"CVE-2025-11704"
+],
+"em-beer-manager": [
+"CVE-2025-11724"
+],
+"all-in-one-time-clock-lite": [
+"CVE-2025-11758"
+],
+"crypto-payment-gateway-with-payeer-for-woocommerce": [
+"CVE-2025-11890"
+],
+"simple-user-capabilities": [
+"CVE-2025-12157",
+"CVE-2025-12158"
+],
+"posts-navigation-links-for-sections-and-headings-free-by-wp-masters": [
+"CVE-2025-12188"
+],
+"dominokit": [
+"CVE-2025-12350"
+],
+"import-export-for-woocommerce": [
+"CVE-2025-12389"
+],
+"linkedin-resume": [
+"CVE-2025-12402"
+],
+"associados-amazon-plugin": [
+"CVE-2025-12403"
+],
+"sh-contextual-help": [
+"CVE-2025-12410"
+],
+"top-bar-notification": [
+"CVE-2025-12412"
+],
+"social-media-wpcf7-stop-words": [
+"CVE-2025-12413"
+],
+"mapmap": [
+"CVE-2025-12415"
+],
+"pagerank-tools": [
+"CVE-2025-12416"
+],
+"visit-counter": [
+"CVE-2025-12452"
+],
+"centangle-team": [
+"CVE-2025-12456"
+],
+"shoplentor": [
+"CVE-2025-12493"
+],
+"easy-upload-files-during-checkout": [
+"CVE-2025-12682"
+],
+"features": [
+"CVE-2025-12582"
+],
+"the-events-calendar": [
+"CVE-2025-12197",
+"CVE-2025-15043",
+"CVE-2026-3585",
+"CVE-2026-78006"
+],
+"kiotviet-sync": [
+"CVE-2025-12674",
+"CVE-2025-12675"
+],
+"funnelkit_automations": [
+"CVE-2025-12469"
+],
+"funnelkit-automations-email-marketing-automation-and-crm-for-wordpress-woocommerce": [
+"CVE-2025-12469"
+],
+"premium-portfolio-features-for-phlox-theme": [
+"CVE-2025-12497"
+],
+"easy-email-subscription": [
+"CVE-2025-10683",
+"CVE-2025-10691"
+],
+"lc-wizard": [
+"CVE-2025-5483"
+],
+"gravity-forms": [
+"CVE-2025-12352",
+"CVE-2025-12974",
+"CVE-2026-12997",
+"CVE-2026-19513",
+"CVE-2026-84434",
+"CVE-2026-103039"
+],
+"idonate": [
+"CVE-2025-4522",
+"CVE-2025-12877"
+],
+"page-post-notes": [
+"CVE-2025-12527"
+],
+"asgaros-forum": [
+"CVE-2025-11452",
+"CVE-2025-12901"
+],
+"simple-downloads-list": [
+"CVE-2025-12583"
+],
+"wpfunnels": [
+"CVE-2025-12000",
+"CVE-2026-84908"
+],
+"course-booking-system": [
+"CVE-2025-12042"
+],
+"smart-auto-upload-images": [
+"CVE-2025-12161"
+],
+"contact-form-7-aweber-extension": [
+"CVE-2025-12167"
+],
+"ovatheme-events-manager": [
+"CVE-2025-7663"
+],
+"flexible-refund-and-return-order-for-woocommerce": [
+"CVE-2025-12621"
+],
+"academy-lms-wordpress-lms-plugin-for-complete-elearning-solution": [
+"CVE-2025-12099"
+],
+"gallery": [
+"CVE-2025-11448",
+"CVE-2025-12377"
+],
+"mail-mint": [
+"CVE-2025-11967",
+"CVE-2026-1447",
+"CVE-2026-1258",
+"CVE-2026-111106"
+],
+"quick-featured-images": [
+"CVE-2025-11980"
+],
+"cyan-backup": [
+"CVE-2025-12092"
+],
+"ctl-arcade-lite": [
+"CVE-2025-11886"
+],
+"shelf-planner": [
+"CVE-2025-11894"
+],
+"crypto": [
+"CVE-2025-11988"
+],
+"find-unused-images": [
+"CVE-2025-11996"
+],
+"find_unused_images": [
+"CVE-2025-11996"
+],
+"add-multiple-marker": [
+"CVE-2025-11999"
+],
+"wp-custom-admin-login-page-logo": [
+"CVE-2025-12132"
+],
+"private-google-calendars": [
+"CVE-2025-12526"
+],
+"usb-qr-code-scanner-for-woocommerce": [
+"CVE-2025-12588"
+],
+"wp-walla": [
+"CVE-2025-12589"
+],
+"yslider": [
+"CVE-2025-12590"
+],
+"blocksy-companion": [
+"CVE-2025-12846",
+"CVE-2026-15158"
+],
+"classified-listing-ai-powered-classified-ads-business-directory-plugin": [
+"CVE-2025-12953",
+"CVE-2026-7563"
+],
+"alt-text-generator-ai-auto-generate-bulk-update-alt-texts-for-images": [
+"CVE-2025-12113"
+],
+"specific-content-for-mobile-customize-the-mobile-version-without-redirections": [
+"CVE-2025-11454"
+],
+"data-tables-generator-by-supsystic": [
+"CVE-2025-12089"
+],
+"survey-maker": [
+"CVE-2025-12892",
+"CVE-2025-12891"
+],
+"welcart-e-commerce": [
+"CVE-2025-12979",
+"CVE-2026-19887",
+"CVE-2026-107752"
+],
+"ai-engine": [
+"CVE-2025-12844"
+],
+"school-management-system-wpschoolpress": [
+"CVE-2025-11981"
+],
+"all-in-one-seo-powerful-seo-plugin-to-boost-seo-rankings-increase-traffic": [
+"CVE-2025-12847",
+"CVE-2025-14384"
+],
+"contest-gallery": [
+"CVE-2025-12849",
+"CVE-2026-8912"
+],
+"booking-for-appointments-and-events-calendar-amelia": [
+"CVE-2025-12482",
+"CVE-2025-14720",
+"CVE-2026-4668",
+"CVE-2026-14782",
+"CVE-2026-14311",
+"CVE-2026-16582"
+],
+"multiple-roles-per-user": [
+"CVE-2025-11620"
+],
+"wp-admin-microblog": [
+"CVE-2025-12173"
+],
+"permalinks-cascade": [
+"CVE-2025-12372"
+],
+"like-it": [
+"CVE-2025-12404"
+],
+"project-honey-pot-spam-trap": [
+"CVE-2025-12406"
+],
+"premmerce-wholesale-pricing-for-woocommerce": [
+"CVE-2025-12411"
+],
+"pie-forms-for-wp": [
+"CVE-2025-12528"
+],
+"wp-dropzone": [
+"CVE-2025-12775"
+],
+"top-friends": [
+"CVE-2025-12827"
+],
+"acf-flexible-layouts-manager": [
+"CVE-2025-12937"
+],
+"download-panel": [
+"CVE-2025-12961"
+],
+"category-and-product-woocommerce-tabs": [
+"CVE-2025-13088"
+],
+"coil-web-monetization": [
+"CVE-2025-9625"
+],
+"broken-link-checker-by-aioseo-easily-fix-monitor-internal-and-external-links": [
+"CVE-2025-11734"
+],
+"restrictions-for-buddypress": [
+"CVE-2025-12391"
+],
+"cryptocurrency-payment-gateway-for-woocommerce": [
+"CVE-2025-12392"
+],
+"wp-duplicate-page": [
+"CVE-2025-12481",
+"CVE-2025-14001"
+],
+"live-sales-notification-for-woocommerce": [
+"CVE-2025-12955"
+],
+"community-events": [
+"CVE-2025-12646",
+"CVE-2025-14029",
+"CVE-2026-2429"
+],
+"wschat-wordpress-live-chat": [
+"CVE-2025-12751"
+],
+"wp-login-and-register-using-jwt": [
+"CVE-2025-12822"
+],
+"wp-import-ultimate-csv-xml-importer-for-wordpress": [
+"CVE-2025-13145",
+"CVE-2026-1317"
+],
+"sureforms": [
+"CVE-2025-12535"
+],
+"ultimate-member-widgets-for-elementor-wordpress-user-directory": [
+"CVE-2025-12778"
+],
+"elex-wordpress-helpdesk-customer-ticketing-system": [
+"CVE-2025-12022",
+"CVE-2025-12023",
+"CVE-2025-12085",
+"CVE-2025-12169",
+"CVE-2025-11456",
+"CVE-2025-10054",
+"CVE-2025-14079",
+"CVE-2026-103768"
+],
+"wsdesk": [
+"CVE-2025-12022",
+"CVE-2025-12023",
+"CVE-2025-12085",
+"CVE-2025-12169",
+"CVE-2025-11456",
+"CVE-2025-10054"
+],
+"uipress-lite": [
+"CVE-2025-10938"
+],
+"realty-portal": [
+"CVE-2025-11985"
+],
+"url-image-importer": [
+"CVE-2025-12138"
+],
+"checkbox": [
+"CVE-2025-12170"
+],
+"authorsure": [
+"CVE-2025-13134"
+],
+"custom-post-type": [
+"CVE-2025-13142"
+],
+"wp-directory-kit": [
+"CVE-2025-13138",
+"CVE-2025-13090",
+"CVE-2025-13089",
+"CVE-2026-16588",
+"CVE-2026-16596",
+"CVE-2026-96653"
+],
+"zegen-core": [
+"CVE-2025-11087"
+],
+"appointment-booking-calendar": [
+"CVE-2025-13317",
+"CVE-2026-4807",
+"CVE-2026-12113"
+],
+"cp-contact-form-with-paypal": [
+"CVE-2025-13384"
+],
+"gsheetconnector-for-ninja-forms": [
+"CVE-2025-13136"
+],
+"booking-calendar-contact-form": [
+"CVE-2025-13318"
+],
+"ads-pro-plugin-multi-purpose-wordpress-advertising-manager": [
+"CVE-2025-7402"
+],
+"perfect-brands-for-woocommerce": [
+"CVE-2025-10144"
+],
+"search-exclude": [
+"CVE-2025-10646"
+],
+"autochat-automatic-conversation": [
+"CVE-2025-12043"
+],
+"conditional-maintenance-mode-for-wordpress": [
+"CVE-2025-12586"
+],
+"peer-publish": [
+"CVE-2025-12587"
+],
+"refund-request-for-woocommerce": [
+"CVE-2025-12634"
+],
+"projectlist": [
+"CVE-2025-13370",
+"CVE-2025-13376"
+],
+"bookme-free-online-appointment-booking-and-scheduling": [
+"CVE-2025-13385"
+],
+"social-images-widget": [
+"CVE-2025-13386"
+],
+"atec-duplicate-page-post": [
+"CVE-2025-13404"
+],
+"ace-post-type-builder": [
+"CVE-2025-13405"
+],
+"chamber-dashboard-business-directory": [
+"CVE-2025-13414"
+],
+"cibeles-ai": [
+"CVE-2025-13595"
+],
+"ai-feeds": [
+"CVE-2025-13597"
+],
+"reuters-direct": [
+"CVE-2025-12578",
+"CVE-2025-12579"
+],
+"hide-category-by-user-role-for-woocommerce": [
+"CVE-2025-13441"
+],
+"blubrry-powerpress": [
+"CVE-2025-13536"
+],
+"ai-chatbot-with-chatgpt-and-content-generator-by-ays": [
+"CVE-2025-13381",
+"CVE-2026-1336"
+],
+"wp-fastest-cache": [
+"CVE-2025-10476"
+],
+"nextend-social-login-and-register": [
+"CVE-2025-13737"
+],
+"db-access": [
+"CVE-2025-13000"
+],
+"donations": [
+"CVE-2025-13001"
+],
+"photo-gallery-by-ays": [
+"CVE-2025-13685"
+],
+"beaver-builder-wordpress-page-builder": [
+"CVE-2025-11726",
+"CVE-2025-12782",
+"CVE-2025-12934"
+],
+"beaver_builder": [
+"CVE-2025-11726",
+"CVE-2025-12782"
+],
+"suremail-smtp-and-email-logs": [
+"CVE-2025-13516"
+],
+"vikrentcar-car-rental-management-system": [
+"CVE-2025-13724",
+"CVE-2026-111120",
+"CVE-2026-116750"
+],
+"modula_image_gallery": [
+"CVE-2025-13645",
+"CVE-2025-13646"
+],
+"modula-image-gallery": [
+"CVE-2025-13645",
+"CVE-2025-13646"
+],
+"fluentcart": [
+"CVE-2025-13495"
+],
+"shopengine-elementor-woocommerce-builder-addon": [
+"CVE-2025-12358"
+],
+"post-smtp": [
+"CVE-2025-12887",
+"CVE-2026-2559"
+],
+"frontend-admin-by-dynamiapps": [
+"CVE-2025-13342",
+"CVE-2025-14741",
+"CVE-2026-3328",
+"CVE-2026-7802",
+"CVE-2026-10039",
+"CVE-2026-15606",
+"CVE-2026-19952"
+],
+"taxopress": [
+"CVE-2025-13354",
+"CVE-2025-13359"
+],
+"fluent-booking": [
+"CVE-2025-13756"
+],
+"custom-post-type-ui": [
+"CVE-2025-12826"
+],
+"postgallery": [
+"CVE-2025-13543"
+],
+"demo-importer-plus": [
+"CVE-2025-13066",
+"CVE-2025-14364"
+],
+"crm-memberships": [
+"CVE-2025-13312",
+"CVE-2025-13313"
+],
+"norby-ai": [
+"CVE-2025-13362"
+],
+"time-sheets": [
+"CVE-2025-10055"
+],
+"hide-categories-or-products-on-shop-page": [
+"CVE-2025-12128"
+],
+"eprolo-dropshipping": [
+"CVE-2025-12133"
+],
+"featured-image-via-url": [
+"CVE-2025-12153"
+],
+"auto-thumbnailer": [
+"CVE-2025-12154"
+],
+"webcake-landing-page-builder": [
+"CVE-2025-12165"
+],
+"contentstudio": [
+"CVE-2025-12181",
+"CVE-2025-13144"
+],
+"bread_\\&_butter": [
+"CVE-2025-12189"
+],
+"image-optimizer-by-wps-sk": [
+"CVE-2025-12190"
+],
+"takeads": [
+"CVE-2025-12370"
+],
+"quantic-social-image-hover": [
+"CVE-2025-13360"
+],
+"feedback-modal-for-website": [
+"CVE-2025-13528"
+],
+"dream-gallery": [
+"CVE-2025-13621"
+],
+"voidek-employee-portal": [
+"CVE-2025-12093"
+],
+"live-css-preview": [
+"CVE-2025-12354"
+],
+"payaza": [
+"CVE-2025-12355"
+],
+"torod-the-smart-shipping-and-delivery-portal-for-e-shops-and-retailers": [
+"CVE-2025-12373"
+],
+"my-auctions-allegro": [
+"CVE-2025-12850",
+"CVE-2025-12851"
+],
+"ark-related-posts": [
+"CVE-2025-13684"
+],
+"projectopia-wordpress-project-management": [
+"CVE-2025-12876"
+],
+"user-generator-and-importer": [
+"CVE-2025-12879"
+],
+"wp-social-login-and-register-social-counter": [
+"CVE-2025-13620"
+],
+"listar-directory-listing-classifieds-wordpress-plugin": [
+"CVE-2025-12574",
+"CVE-2025-12577"
+],
+"flex-qr-code-generator": [
+"CVE-2025-12673"
+],
+"g-ffl-cockpit": [
+"CVE-2025-12721"
+],
+"accessiy-by-codeconfig-accessibility-easy-one-click-accessibility-toolbar-that-truly-matters": [
+"CVE-2025-13309"
+],
+"accessiy-by-codeconfig-accessibility": [
+"CVE-2025-13358"
+],
+"wp-landing-page": [
+"CVE-2025-13629"
+],
+"helloprint": [
+"CVE-2025-13666"
+],
+"10web_booster": [
+"CVE-2025-13377"
+],
+"all-in-one-video-gallery": [
+"CVE-2025-12966",
+"CVE-2025-12957",
+"CVE-2025-14947",
+"CVE-2025-15516"
+],
+"starter-templates": [
+"CVE-2025-13065"
+],
+"simple-download-counter": [
+"CVE-2025-13677"
+],
+"hippoo-mobile-app-for-woocommerce": [
+"CVE-2025-13339",
+"CVE-2025-12655"
+],
+"video-merchant": [
+"CVE-2025-14390"
+],
+"list-category-posts": [
+"CVE-2025-10163",
+"CVE-2026-12434"
+],
+"wp-job-portal": [
+"CVE-2025-14293",
+"CVE-2026-4306",
+"CVE-2026-4758"
+],
+"lt-unleashed": [
+"CVE-2025-13886"
+],
+"premmerce-brands-for-woocommerce": [
+"CVE-2025-12783"
+],
+"player-leaderboard": [
+"CVE-2025-12824"
+],
+"infility-global": [
+"CVE-2025-12968",
+"CVE-2025-15268",
+"CVE-2026-8685"
+],
+"blaze-demo-importer": [
+"CVE-2025-13334"
+],
+"imaq-core": [
+"CVE-2025-13363"
+],
+"rabbit-hole": [
+"CVE-2025-13366"
+],
+"premmerce-wishlist-for-woocommerce": [
+"CVE-2025-13440"
+],
+"flow-flow-social-feed-stream": [
+"CVE-2025-13866"
+],
+"watchtowerhq": [
+"CVE-2025-13972"
+],
+"purchase-and-expense-manager": [
+"CVE-2025-13987"
+],
+"visitor-logic-lite": [
+"CVE-2025-14044"
+],
+"url-media-uploader": [
+"CVE-2025-14045"
+],
+"animated-pixel-marquee-creator": [
+"CVE-2025-14062"
+],
+"buddytask": [
+"CVE-2025-14064"
+],
+"coding-blocks": [
+"CVE-2025-14158"
+],
+"upcoming-for-calendly": [
+"CVE-2025-14160"
+],
+"truefy-embed": [
+"CVE-2025-14161"
+],
+"bmlt-wordpress": [
+"CVE-2025-14162"
+],
+"kirim-email-woocommerce-integration": [
+"CVE-2025-14165"
+],
+"vimeo-simplegallery": [
+"CVE-2025-14170"
+],
+"multi-uploader-for-gravity-forms": [
+"CVE-2025-14344",
+"CVE-2026-5581",
+"CVE-2026-87796"
+],
+"resource-library-for-logged-in-users": [
+"CVE-2025-14354"
+],
+"simple-theme-changer": [
+"CVE-2025-14391",
+"CVE-2025-14392"
+],
+"wpnakama": [
+"CVE-2025-14068"
+],
+"wp-fastest-cache-premium": [
+"CVE-2025-10583"
+],
+"image-gallery-photo-grid-video-gallery": [
+"CVE-2025-13891",
+"CVE-2025-14003"
+],
+"funnelkit-funnel-builder-for-woocommerce-checkout": [
+"CVE-2025-14169",
+"CVE-2026-107746"
+],
+"simple-csv-table": [
+"CVE-2025-12960"
+],
+"pdf-for-contact-form-7-drag-and-drop-template-builder": [
+"CVE-2025-14074"
+],
+"simple-bike-rental": [
+"CVE-2025-14065"
+],
+"secure-copy-content-protection-and-content-locking": [
+"CVE-2025-14159"
+],
+"filter-grids": [
+"CVE-2025-10289"
+],
+"url-shortener": [
+"CVE-2025-10738"
+],
+"wp3d-model-import-viewer": [
+"CVE-2025-13094"
+],
+"employee-spotlight-team-member-showcase-meet-the-team": [
+"CVE-2025-13403"
+],
+"design-import-export": [
+"CVE-2025-14050"
+],
+"eyewear-prescription-form": [
+"CVE-2025-14365",
+"CVE-2025-14366"
+],
+"easy-theme-options": [
+"CVE-2025-14367"
+],
+"popover-windows": [
+"CVE-2025-14394",
+"CVE-2025-14395"
+],
+"postem-ipsum": [
+"CVE-2025-14397"
+],
+"annuncifunebri-impresa": [
+"CVE-2025-14447"
+],
+"image-slider-by-ays-responsive-slider-and-carousel": [
+"CVE-2025-14454"
+],
+"lucky-draw-contests": [
+"CVE-2025-14462"
+],
+"extensive-vc-addons-for-wpbakery-page-builder": [
+"CVE-2025-14475"
+],
+"doubly-cross-domain-copy-paste-for-wordpress": [
+"CVE-2025-14476"
+],
+"404-solution": [
+"CVE-2025-14477"
+],
+"userback": [
+"CVE-2025-14540"
+],
+"happy-helpdesk-support-ticket-system": [
+"CVE-2025-14581"
+],
+"filebird-wordpress-media-library-folders-file-manager": [
+"CVE-2025-12900"
+],
+"onesignal-web-push-notifications": [
+"CVE-2025-13950",
+"CVE-2026-3155"
+],
+"booking-calendar": [
+"CVE-2025-14383",
+"CVE-2025-14146",
+"CVE-2025-14982",
+"CVE-2026-1431"
+],
+"learnpress-wordpress-lms-plugin": [
+"CVE-2025-13956",
+"CVE-2025-13964",
+"CVE-2026-3226",
+"CVE-2026-3225"
+],
+"dokan-pro": [
+"CVE-2025-12809",
+"CVE-2026-12077",
+"CVE-2026-12079"
+],
+"jetformbuilder-dynamic-blocks-form-builder": [
+"CVE-2025-11991",
+"CVE-2026-13459"
+],
+"gutenberg-essential-blocks-page-builder-for-gutenberg-blocks-patterns": [
+"CVE-2025-11369"
+],
+"zephyr-project-manager": [
+"CVE-2025-12496"
+],
+"download-plugins-and-themes-in-zip-from-dashboard": [
+"CVE-2025-14399"
+],
+"ultimate-member": [
+"CVE-2025-14081",
+"CVE-2026-7761"
+],
+"download-manager": [
+"CVE-2025-13498",
+"CVE-2026-4057"
+],
+"sweet-energy-efficiency": [
+"CVE-2025-14618"
+],
+"appointment-booking-calendar-simply-schedule-appointments-booking": [
+"CVE-2025-13754"
+],
+"image-photo-gallery-final-tiles-grid": [
+"CVE-2025-14455",
+"CVE-2025-15466"
+],
+"pretty-google-calendar": [
+"CVE-2025-12898"
+],
+"file-uploader-for-woocommerce": [
+"CVE-2025-13329"
+],
+"wp-hallo-welt": [
+"CVE-2025-13365"
+],
+"quran-gateway": [
+"CVE-2025-14164"
+],
+"wp-db-booster": [
+"CVE-2025-14168"
+],
+"f70-lead-document-download": [
+"CVE-2025-14633"
+],
+"amazon-affiliate-lite-plugin": [
+"CVE-2025-14734"
+],
+"wp-jobhunt": [
+"CVE-2025-7782"
+],
+"tainacan": [
+"CVE-2025-14043",
+"CVE-2026-6230",
+"CVE-2026-93767",
+"CVE-2026-104743"
+],
+"live-composer-free-wordpress-website-builder": [
+"CVE-2025-14071",
+"CVE-2026-16502"
+],
+"frontend-post-submission-manager-lite": [
+"CVE-2025-14080"
+],
+"web-to-sugarcrm-lead": [
+"CVE-2025-13361"
+],
+"redirection-for-contact-form-7": [
+"CVE-2025-14800"
+],
+"premium_addons_for_elementor": [
+"CVE-2025-14155",
+"CVE-2025-14163"
+],
+"premium-addons-for-elementor-powerful-elementor-templates-widgets": [
+"CVE-2025-14155"
+],
+"premium-addons-for-elementor": [
+"CVE-2025-14163"
+],
+"frontend-post-submission-manager-lite-frontend-posting-wordpress-plugin": [
+"CVE-2025-14913"
+],
+"strong-testimonials": [
+"CVE-2025-14426"
+],
+"form-vibes-database-manager-for-forms": [
+"CVE-2025-13409"
+],
+"cbx-bookmark-favorite": [
+"CVE-2025-13652"
+],
+"ilghera-support-system-for-woocommerce": [
+"CVE-2025-14034"
+],
+"page-expire-popup-redirection-for-wordpress": [
+"CVE-2025-14153"
+],
+"fastdup-fastest-wordpress-migration-duplicator": [
+"CVE-2026-0604",
+"CVE-2026-1104"
+],
+"popupkit": [
+"CVE-2025-14441",
+"CVE-2025-14895"
+],
+"buddypress-xprofile-custom-field-types": [
+"CVE-2025-14997"
+],
+"masterstudy-lms-wordpress-plugin-for-online-courses-and-education": [
+"CVE-2025-13766",
+"CVE-2026-4817"
+],
+"appointment-booking-and-scheduling-calendar-plugin-wp-timetics": [
+"CVE-2025-5919"
+],
+"quiz_and_survey_master": [
+"CVE-2025-9294",
+"CVE-2025-9318",
+"CVE-2025-9637"
+],
+"ablocks-wordpress-gutenberg-blocks": [
+"CVE-2025-12449"
+],
+"guest-posting-frontend-posting-front-editor-wp-front-user-submit": [
+"CVE-2025-13419"
+],
+"latest-registered-users": [
+"CVE-2025-13493"
+],
+"moosend-landing-pages": [
+"CVE-2025-13496"
+],
+"svg-map-plugin": [
+"CVE-2025-13519"
+],
+"mtcaptcha-wordpress": [
+"CVE-2025-13520"
+],
+"wp-status-notifier": [
+"CVE-2025-13521"
+],
+"xshare": [
+"CVE-2025-13527"
+],
+"unify": [
+"CVE-2025-13529"
+],
+"helpdesk-contact-form": [
+"CVE-2025-13657"
+],
+"yoco-payments": [
+"CVE-2025-13801"
+],
+"mamurjor-employee-info": [
+"CVE-2025-13990"
+],
+"reviewify": [
+"CVE-2025-14070"
+],
+"simcast": [
+"CVE-2025-14077"
+],
+"awesome-hotel-booking": [
+"CVE-2025-14352"
+],
+"quote-comments": [
+"CVE-2025-14370"
+],
+"piraeus-bank-woocommerce-payment-gateway": [
+"CVE-2025-14460"
+],
+"sticky-action-buttons": [
+"CVE-2025-14465"
+],
+"amp-for-wp-accelerated-mobile-pages": [
+"CVE-2025-14468"
+],
+"drag-and-drop-multiple-file-upload-contact-form-7": [
+"CVE-2025-14842",
+"CVE-2026-3459"
+],
+"ns-ie-compatibility-fixer": [
+"CVE-2025-14845"
+],
+"flashcard": [
+"CVE-2025-14867"
+],
+"bit-form-contact-form-plugin": [
+"CVE-2025-14901"
+],
+"newsletter-email-subscribe": [
+"CVE-2025-14904"
+],
+"latest-tabs": [
+"CVE-2025-14999"
+],
+"wp-enable-webp": [
+"CVE-2025-15158"
+],
+"ipaymu-payment-gateway-for-woocommerce": [
+"CVE-2026-0656"
+],
+"wp-cost-estimation": [
+"CVE-2019-25295",
+"CVE-2019-25296"
+],
+"tutor-lms-elearning-and-online-course-solution": [
+"CVE-2025-13679",
+"CVE-2025-13628",
+"CVE-2025-13934",
+"CVE-2025-13935",
+"CVE-2026-0548",
+"CVE-2025-13673",
+"CVE-2026-3360",
+"CVE-2026-3358",
+"CVE-2026-5502",
+"CVE-2026-10736",
+"CVE-2026-15022",
+"CVE-2026-15444",
+"CVE-2026-78175",
+"CVE-2026-88944"
+],
+"japanized-for-woocommerce": [
+"CVE-2025-14886"
+],
+"schedule-post-changes-with-publishpress-future": [
+"CVE-2025-14718"
+],
+"wp-table-builder-drag-drop-table-builder": [
+"CVE-2025-13753",
+"CVE-2026-6922"
+],
+"contact-form-vcard-generator": [
+"CVE-2025-13717"
+],
+"wp-page-permalink-extension": [
+"CVE-2025-14172"
+],
+"miniorange-otp-verification-and-sms-notification-for-woocommerce": [
+"CVE-2025-14948"
+],
+"templately": [
+"CVE-2026-0831"
+],
+"cp-image-store-with-slideshow": [
+"CVE-2026-0684"
+],
+"integration-opvius-ai-for-woocommerce": [
+"CVE-2025-14301"
+],
+"wpblogsyn": [
+"CVE-2025-14389"
+],
+"crush-pics-image-optimizer-image-compression-and-optimization": [
+"CVE-2025-14482"
+],
+"news-and-blog-designer-bundle": [
+"CVE-2025-14502"
+],
+"dashboard-builder-wordpress-plugin-for-charts-and-graphs": [
+"CVE-2025-14615"
+],
+"wp-crm-system": [
+"CVE-2025-14854"
+],
+"netcash-woocommerce-payment-gateway": [
+"CVE-2025-14880"
+],
+"gotham-block-extra-light": [
+"CVE-2025-15020"
+],
+"sosh-share-buttons": [
+"CVE-2025-15377"
+],
+"responsive-accordion-slider": [
+"CVE-2026-0635"
+],
+"flat-shipping-rate-by-city-for-woocommerce": [
+"CVE-2026-0678"
+],
+"perfit-woocommerce": [
+"CVE-2025-14173"
+],
+"shipping-rate-by-cities": [
+"CVE-2025-14770"
+],
+"socialchamp-with-wordpress": [
+"CVE-2025-14846"
+],
+"stopwords-for-comments": [
+"CVE-2025-15376"
+],
+"payhere-payment-gateway-plugin-for-woocommerce": [
+"CVE-2025-15475"
+],
+"aplazo-payment-gateway": [
+"CVE-2025-15512"
+],
+"float-payment-gateway": [
+"CVE-2025-15513"
+],
+"appointment-booking-calendar-simply-schedule-appointments-booking-plugin": [
+"CVE-2025-12166",
+"CVE-2026-1708",
+"CVE-2026-3658",
+"CVE-2026-7797",
+"CVE-2026-6937",
+"CVE-2026-6723"
+],
+"contact_form_7": [
+"CVE-2025-14457"
+],
+"drag-and-drop-multiple-file-upload-for-contact-form-7": [
+"CVE-2025-14457",
+"CVE-2026-5710",
+"CVE-2026-5718"
+],
+"supreme-modules-lite": [
+"CVE-2025-13062"
+],
+"affiliatex-amazon-affiliate-plugin": [
+"CVE-2025-13859"
+],
+"awesome-support-wordpress-helpdesk-support": [
+"CVE-2025-12641"
+],
+"mailerlite-woocommerce-integration": [
+"CVE-2026-1000"
+],
+"leav-last-email-address-validator": [
+"CVE-2025-14853"
+],
+"getgenie": [
+"CVE-2026-1003"
+],
+"cost-calculator-builder": [
+"CVE-2025-14757",
+"CVE-2025-14755",
+"CVE-2026-7753"
+],
+"cost_calculator_builder": [
+"CVE-2025-14757"
+],
+"essential-addons-for-elementor": [
+"CVE-2026-1004"
+],
+"feeds-for-youtube-pro": [
+"CVE-2025-12002"
+],
+"wallet-system-for-woocommerce": [
+"CVE-2025-14450"
+],
+"filr-secure-document-library": [
+"CVE-2025-14632"
+],
+"block-editor": [
+"CVE-2025-13725"
+],
+"payment-button-for-paypal": [
+"CVE-2025-14463"
+],
+"repairbuddy-repair-shop-crm-booking": [
+"CVE-2026-0820",
+"CVE-2026-3567"
+],
+"phrase-tms-integration-for-wordpress": [
+"CVE-2025-12168"
+],
+"user-registration-using-contact-form-7": [
+"CVE-2025-12825"
+],
+"paygent-for-woocommerce": [
+"CVE-2025-14078"
+],
+"koko_analytics": [
+"CVE-2026-22850"
+],
+"newsletter-send-awesome-emails-from-wordpress": [
+"CVE-2026-1051"
+],
+"custom-fonts-host-your-fonts-locally": [
+"CVE-2025-14351"
+],
+"learnpress-wordpress-lms": [
+"CVE-2025-14798"
+],
+"notificationx": [
+"CVE-2026-0554",
+"CVE-2026-110721"
+],
+"nexter-extension-site-enhancements-toolkit": [
+"CVE-2026-0726"
+],
+"photo-gallery-by-10web-mobile-friendly-image-gallery": [
+"CVE-2026-1036",
+"CVE-2026-7048",
+"CVE-2026-9829",
+"CVE-2026-85652"
+],
+"melapress-role-editor": [
+"CVE-2025-14866"
+],
+"kalrav-ai-agent": [
+"CVE-2025-13374"
+],
+"wise-analytics": [
+"CVE-2025-14609"
+],
+"alchemist-ajax-upload": [
+"CVE-2025-14629"
+],
+"wizit-gateway-for-woocommerce": [
+"CVE-2025-14843"
+],
+"simple-crypto-shortcodes": [
+"CVE-2025-14903"
+],
+"wp-youtube-video-gallery": [
+"CVE-2025-14906"
+],
+"wp-clanwars": [
+"CVE-2026-0806"
+],
+"alex-user-counter": [
+"CVE-2026-1070"
+],
+"zt-captcha": [
+"CVE-2026-1075"
+],
+"star-review-manager": [
+"CVE-2026-1076"
+],
+"set-bulk-post-categories": [
+"CVE-2026-1081"
+],
+"login-page-editor": [
+"CVE-2026-1088"
+],
+"aiktp": [
+"CVE-2026-1103"
+],
+"administrative-shortcodes": [
+"CVE-2026-1257"
+],
+"adminquickbar": [
+"CVE-2025-14630"
+],
+"moderate-selected-posts": [
+"CVE-2025-14907"
+],
+"meta-box-gallerymeta": [
+"CVE-2026-0687"
+],
+"friendly-functions-for-welcart": [
+"CVE-2026-1208"
+],
+"link-invoice-payment-for-woocommerce": [
+"CVE-2025-14971"
+],
+"easy-replace-image": [
+"CVE-2026-1298"
+],
+"new-user-approve": [
+"CVE-2026-0832"
+],
+"simple-calendar-for-elementor": [
+"CVE-2026-1310"
+],
+"registrationmagic": [
+"CVE-2026-1054"
+],
+"vidshop-shoppable-videos-for-woocommerce": [
+"CVE-2026-0702"
+],
+"ai-engine-the-chatbot-and-ai-framework-for-wordpress": [
+"CVE-2026-1400"
+],
+"search-atlas-seo-premier-seo-plugin-for-one-click-wp-publishing-integrated-ai-optimization": [
+"CVE-2025-14386",
+"CVE-2026-15946"
+],
+"rupantorpay": [
+"CVE-2025-15511"
+],
+"frontend-file-manager": [
+"CVE-2026-1280"
+],
+"imwptip": [
+"CVE-2026-1377"
+],
+"bitcoin-donate-button": [
+"CVE-2026-1380"
+],
+"change-wp-url": [
+"CVE-2026-1398"
+],
+"snow-monkey-forms": [
+"CVE-2026-1056"
+],
+"stop-spammers-classic": [
+"CVE-2025-14795"
+],
+"nex-forms-ultimate-forms": [
+"CVE-2025-15510",
+"CVE-2026-1948",
+"CVE-2026-7046",
+"CVE-2026-12404",
+"CVE-2026-9017",
+"CVE-2026-15602",
+"CVE-2026-75961"
+],
+"supportcandy-helpdesk-customer-support-ticket-system": [
+"CVE-2026-0683"
+],
+"popup-box": [
+"CVE-2026-1165"
+],
+"form-maker-by-10web": [
+"CVE-2026-1065",
+"CVE-2026-3330"
+],
+"os-datahub-maps": [
+"CVE-2026-1730"
+],
+"wp-foft-loader": [
+"CVE-2026-1756"
+],
+"xendit-payment": [
+"CVE-2025-14461"
+],
+"myrewards-loyalty-points-and-rewards-for-woocommerce": [
+"CVE-2025-15260"
+],
+"seo-flow-by-lupsonline": [
+"CVE-2025-15285"
+],
+"code-explorer": [
+"CVE-2025-15487"
+],
+"magic-import-document-extractor": [
+"CVE-2025-15507"
+],
+"webpurify-profanity-filter": [
+"CVE-2026-0572"
+],
+"fortis-for-woocommerce": [
+"CVE-2026-0679"
+],
+"all-push-notification-for-wp": [
+"CVE-2026-0816"
+],
+"sibs-woocommerce-payment-gateway": [
+"CVE-2026-1370"
+],
+"sportspress": [
+"CVE-2025-15368"
+],
+"shortpixel-image-optimizer": [
+"CVE-2026-1246"
+],
+"greenshift-animation-and-page-builder-blocks": [
+"CVE-2026-1927",
+"CVE-2026-2371",
+"CVE-2026-5093"
+],
+"wp-duplicate": [
+"CVE-2026-1499"
+],
+"code-snippets": [
+"CVE-2026-1785"
+],
+"the-bucketlister": [
+"CVE-2025-15476"
+],
+"bucketlister": [
+"CVE-2025-15477"
+],
+"title-animator": [
+"CVE-2026-1082"
+],
+"wcfm-frontend-manager-for-woocommerce-along-with-bookings-subscription-listings-compatible": [
+"CVE-2026-0845"
+],
+"wcfm-marketplace-multivendor-marketplace-for-woocommerce": [
+"CVE-2026-1722",
+"CVE-2026-18442"
+],
+"slimstat-analytics": [
+"CVE-2025-13431"
+],
+"gallery-by-foogallery": [
+"CVE-2025-15524"
+],
+"mma-call-tracking": [
+"CVE-2026-1215"
+],
+"invoct-pdf-invoices-billing-for-woocommerce": [
+"CVE-2026-1748"
+],
+"twitter-posts-to-blog": [
+"CVE-2026-1786"
+],
+"wamate-confirm-order-confirmation": [
+"CVE-2026-1833"
+],
+"latepoint-calendar-booking-plugin-for-appointments-and-events": [
+"CVE-2026-1537",
+"CVE-2025-14873",
+"CVE-2026-1487",
+"CVE-2026-2324",
+"CVE-2026-9719",
+"CVE-2026-11398",
+"CVE-2026-5356"
+],
+"activity-log-for-wordpress": [
+"CVE-2026-1671"
+],
+"starfish-review-generation-marketing-for-wordpress": [
+"CVE-2025-15157"
+],
+"bfg-tools-extension-zipper": [
+"CVE-2025-13681"
+],
+"easy-form-builder": [
+"CVE-2025-14067"
+],
+"wp-last-modified-info": [
+"CVE-2025-14608"
+],
+"bluesnap-payment-gateway-for-woocommerce": [
+"CVE-2026-0692"
+],
+"appointment-booking-calendar-plugin-bookr": [
+"CVE-2026-1932"
+],
+"mdirector-newsletter": [
+"CVE-2025-14852"
+],
+"accordion-and-accordion-slider": [
+"CVE-2026-0727"
+],
+"mailchimp-campaigns": [
+"CVE-2026-1303"
+],
+"midi-synth": [
+"CVE-2026-1306"
+],
+"wp-quick-contact-us": [
+"CVE-2026-1394"
+],
+"callbackkiller-service-widget": [
+"CVE-2026-1944"
+],
+"flexi-product-slider-and-grid-for-woocommerce": [
+"CVE-2026-1988"
+],
+"smart-forms": [
+"CVE-2026-2022"
+],
+"photostack-gallery": [
+"CVE-2026-2024"
+],
+"modula-image-gallery-photo-grid-video-gallery": [
+"CVE-2026-1254",
+"CVE-2026-89406",
+"CVE-2026-92713",
+"CVE-2026-107659"
+],
+"media-library-folders": [
+"CVE-2026-2312"
+],
+"element-pack-addons-for-elementor": [
+"CVE-2026-1793"
+],
+"wowrevenue": [
+"CVE-2026-2001"
+],
+"eventprime": [
+"CVE-2026-1657",
+"CVE-2026-1655"
+],
+"kadence-blocks-page-builder-toolkit-for-gutenberg-editor": [
+"CVE-2026-2608",
+"CVE-2026-2826",
+"CVE-2026-12902"
+],
+"order-splitter-for-woocommerce": [
+"CVE-2025-12075"
+],
+"emailkit-email-customizer-for-woocommerce-wp": [
+"CVE-2026-1925",
+"CVE-2026-3474"
+],
+"business-directory-plugin-easy-listing-directories-for-wordpress": [
+"CVE-2026-2576"
+],
+"tickera-sell-tickets-manage-events": [
+"CVE-2025-12356",
+"CVE-2026-13754",
+"CVE-2026-15448",
+"CVE-2026-15761"
+],
+"keybase-io-verification": [
+"CVE-2026-1072"
+],
+"taskbuilder-wordpress-project-management-task-management": [
+"CVE-2026-1639",
+"CVE-2026-1640"
+],
+"pdf-invoices-packing-slips-for-woocommerce": [
+"CVE-2026-1906"
+],
+"wp-plugin-info-card": [
+"CVE-2026-2023"
+],
+"yaymail-woocommerce-email-customizer": [
+"CVE-2026-1937",
+"CVE-2026-1831",
+"CVE-2026-1938"
+],
+"gutenberg-blocks-with-ai-by-kadence-wp": [
+"CVE-2026-2633"
+],
+"kali-forms": [
+"CVE-2026-1860"
+],
+"dam-spam": [
+"CVE-2026-2112"
+],
+"wp-downloadmanager": [
+"CVE-2026-2419",
+"CVE-2026-2426"
+],
+"business-directory": [
+"CVE-2026-1656"
+],
+"siteorigin-widgets-bundle": [
+"CVE-2026-2127",
+"CVE-2026-92174",
+"CVE-2026-97348"
+],
+"user-submitted-posts-enable-users-to-submit-posts-from-the-front-end": [
+"CVE-2026-2126"
+],
+"bookster-wordpress-appointment-booking-plugin": [
+"CVE-2025-8781"
+],
+"advanced-ajax-product-filters": [
+"CVE-2026-1426"
+],
+"aruba-hispeed-cache": [
+"CVE-2025-11725",
+"CVE-2026-1924"
+],
+"gdpr-cookie-consent": [
+"CVE-2025-11754",
+"CVE-2026-12955"
+],
+"mesmerize-companion": [
+"CVE-2025-12027"
+],
+"acf-photo-gallery-field": [
+"CVE-2025-12081"
+],
+"mailchimp-list-subscribe-form": [
+"CVE-2025-12172"
+],
+"library-management-system": [
+"CVE-2025-12707"
+],
+"ctx-feed-woocommerce-product-feed-manager": [
+"CVE-2025-12975"
+],
+"country-blocker-for-adsense": [
+"CVE-2025-13413"
+],
+"wp-audio-gallery": [
+"CVE-2025-13603"
+],
+"breeze-wordpress-cache-plugin": [
+"CVE-2025-13864"
+],
+"remove-post-type-slug": [
+"CVE-2025-14167"
+],
+"oneclick-chat-to-order": [
+"CVE-2025-14270"
+],
+"seo-plugin-by-squirrly-seo": [
+"CVE-2025-14342",
+"CVE-2026-7624",
+"CVE-2026-1667"
+],
+"virusdie-one-click-website-security": [
+"CVE-2025-14864"
+],
+"backwpup-wordpress-backup-restore-plugin": [
+"CVE-2025-15041"
+],
+"shield-security": [
+"CVE-2026-0722"
+],
+"prodigy-commerce": [
+"CVE-2026-0926"
+],
+"orderable-wordpress-restaurant-online-ordering-system-and-food-ordering-plugin": [
+"CVE-2026-0974"
+],
+"slider-future": [
+"CVE-2026-1405"
+],
+"whatsiplus-scheduled-notification-for-woocommerce": [
+"CVE-2026-1455"
+],
+"news-element-elementor-blog-magazine": [
+"CVE-2026-2284"
+],
+"dealia-request-a-quote": [
+"CVE-2026-2504"
+],
+"product-table-and-list-builder-for-woocommerce-lite": [
+"CVE-2026-2232"
+],
+"learnpress-export-import-wordpress-extension-for-learnpress": [
+"CVE-2026-1787"
+],
+"geo-mashup": [
+"CVE-2026-2416",
+"CVE-2026-6457",
+"CVE-2026-4060",
+"CVE-2026-4061",
+"CVE-2026-4062",
+"CVE-2026-7552"
+],
+"post-duplicator": [
+"CVE-2026-2301",
+"CVE-2026-4245",
+"CVE-2026-4244"
+],
+"disable-admin-notices-hide-dashboard-notifications": [
+"CVE-2026-2410"
+],
+"wp-responsive-images": [
+"CVE-2026-1557"
+],
+"worry-proof-backup": [
+"CVE-2026-1311"
+],
+"mailarchiver": [
+"CVE-2026-2831"
+],
+"wp-mail-logging": [
+"CVE-2026-2471"
+],
+"page-builder-by-siteorigin": [
+"CVE-2026-2448"
+],
+"email-subscribers-by-icegram-express": [
+"CVE-2026-1651"
+],
+"wp-members-membership-plugin": [
+"CVE-2026-2363"
+],
+"enable-media-replace": [
+"CVE-2026-2732",
+"CVE-2026-85655"
+],
+"js-help-desk-ai-powered-support-ticketing-system": [
+"CVE-2023-7337",
+"CVE-2026-2511"
+],
+"seraphinite-accelerator": [
+"CVE-2026-3056"
+],
+"fluent-forms-pro-add-on-pack": [
+"CVE-2026-2899",
+"CVE-2026-15962"
+],
+"apocalypse-meow": [
+"CVE-2026-3523"
+],
+"media-library-assistant": [
+"CVE-2026-3072",
+"CVE-2026-6075"
+],
+"membership-plugin-restrict-content": [
+"CVE-2026-1321"
+],
+"page-and-post-clone": [
+"CVE-2026-2893"
+],
+"wp-frontend-profile": [
+"CVE-2026-1644"
+],
+"humn-1-ai-website-scanner-human-certification-by-winston-ai": [
+"CVE-2026-1981"
+],
+"zip-code-based-content-protection": [
+"CVE-2025-14353"
+],
+"mdjm-event-management": [
+"CVE-2026-1650",
+"CVE-2026-7537"
+],
+"js-archive-list": [
+"CVE-2026-2020"
+],
+"meta-box": [
+"CVE-2025-14675"
+],
+"purchase-button-for-affiliate-link": [
+"CVE-2026-1073"
+],
+"true-ranker": [
+"CVE-2026-1085"
+],
+"font-pairing-preview-for-landing-pages": [
+"CVE-2026-1086"
+],
+"guardian-news-feed": [
+"CVE-2026-1087"
+],
+"royal-addons-for-elementor": [
+"CVE-2025-13067",
+"CVE-2026-4024"
+],
+"ally-web-accessibility-usability": [
+"CVE-2026-2413"
+],
+"wp-maps": [
+"CVE-2026-3222"
+],
+"jetbooking": [
+"CVE-2026-3496"
+],
+"my-sticky-bar": [
+"CVE-2026-3657"
+],
+"formidable-forms": [
+"CVE-2026-2890"
+],
+"appointment-booking-calendar-simply-schedule-appointments": [
+"CVE-2026-3045"
+],
+"pix-for-woocommerce": [
+"CVE-2026-3891"
+],
+"social-icons-widget-block-by-wpzoom": [
+"CVE-2026-4063"
+],
+"thim-kit-for-elementor-pre-built-templates-widgets-for-elementor": [
+"CVE-2026-1870"
+],
+"wowstore-store-builder-product-blocks-for-woocommerce": [
+"CVE-2026-2579"
+],
+"royal-addons-for-elementor-addons-and-templates-kit-for-elementor": [
+"CVE-2026-2373"
+],
+"subscriptions-for-woocommerce": [
+"CVE-2026-1926",
+"CVE-2026-15397"
+],
+"yoast-duplicate-post": [
+"CVE-2026-1217"
+],
+"add-custom-fields-to-media": [
+"CVE-2026-4068"
+],
+"instant-popup-builder": [
+"CVE-2026-3475"
+],
+"aimogen-pro": [
+"CVE-2026-4038"
+],
+"ilghera-carta-docente-for-woocommerce": [
+"CVE-2026-2421"
+],
+"rockpress": [
+"CVE-2026-3550"
+],
+"keep-backup-daily": [
+"CVE-2026-3339"
+],
+"invelity-product-feeds": [
+"CVE-2025-14037"
+],
+"group-chat-video-chat-by-atomchat": [
+"CVE-2026-1253"
+],
+"wp-posts-re-order": [
+"CVE-2026-1378"
+],
+"redirect-countdown": [
+"CVE-2026-1390"
+],
+"sr-wp-minify-html": [
+"CVE-2026-1392"
+],
+"add-google-social-profiles-to-knowledge-graph-box": [
+"CVE-2026-1393"
+],
+"company-posts-for-linkedin": [
+"CVE-2026-1935"
+],
+"mylinksdump": [
+"CVE-2026-2279"
+],
+"quentn-wp": [
+"CVE-2026-2468"
+],
+"elementcamp": [
+"CVE-2026-2503"
+],
+"hr-press-lite": [
+"CVE-2026-2720"
+],
+"post-snippits": [
+"CVE-2026-2723"
+],
+"linksy-search-and-replace": [
+"CVE-2026-2941"
+],
+"lobot-slider-administrator": [
+"CVE-2026-3331"
+],
+"xhanch-my-advanced-settings": [
+"CVE-2026-3332"
+],
+"cms-commander": [
+"CVE-2026-3334"
+],
+"canto": [
+"CVE-2026-3335",
+"CVE-2026-6441"
+],
+"wp-chatbot-for-messenger": [
+"CVE-2026-3506"
+],
+"smarter-analytics": [
+"CVE-2026-3570"
+],
+"punnel-landing-page-builder": [
+"CVE-2026-3645"
+],
+"build-app-online": [
+"CVE-2026-3651"
+],
+"speedup-optimization": [
+"CVE-2026-4127"
+],
+"neos-connector-for-fakturama": [
+"CVE-2026-4143"
+],
+"expire-users": [
+"CVE-2026-4261"
+],
+"smart-custom-fields": [
+"CVE-2026-4066"
+],
+"jupiter-x-core": [
+"CVE-2026-3533"
+],
+"user-registration-membership": [
+"CVE-2026-4056",
+"CVE-2026-3601",
+"CVE-2026-6145"
+],
+"learndash-lms": [
+"CVE-2026-3079",
+"CVE-2026-12483",
+"CVE-2026-12843"
+],
+"product-filter-for-woocommerce-by-wbw": [
+"CVE-2026-3138"
+],
+"jetengine": [
+"CVE-2026-4662",
+"CVE-2026-4352",
+"CVE-2026-12360"
+],
+"masteriyo-lms": [
+"CVE-2026-4484",
+"CVE-2026-8279"
+],
+"formlift-for-infusionsoft-web-forms": [
+"CVE-2026-4281"
+],
+"conditional-menus": [
+"CVE-2026-1032"
+],
+"smart-slider-3": [
+"CVE-2026-3098",
+"CVE-2026-4065",
+"CVE-2026-9197"
+],
+"appointment-booking-and-scheduler-plugin-truebooker": [
+"CVE-2026-1797"
+],
+"minify-html": [
+"CVE-2026-3191"
+],
+"mw-wp-form": [
+"CVE-2026-4347",
+"CVE-2026-5436"
+],
+"perfmatters": [
+"CVE-2026-4350",
+"CVE-2026-4351",
+"CVE-2026-13251"
+],
+"listeo-core": [
+"CVE-2025-14938"
+],
+"ninja-forms-file-uploads": [
+"CVE-2026-0740",
+"CVE-2026-13369",
+"CVE-2026-12557",
+"CVE-2026-92820"
+],
+"sql_chart_builder": [
+"CVE-2026-4079"
+],
+"backup-migration": [
+"CVE-2025-14944"
+],
+"download-monitor": [
+"CVE-2026-4401"
+],
+"everest-forms": [
+"CVE-2026-3296",
+"CVE-2026-5478"
+],
+"product-feed-pro-for-woocommerce-by-adtribes-product-feeds-for-woocommerce": [
+"CVE-2026-3499"
+],
+"ltl-freight-quotes-r-l-carriers-edition": [
+"CVE-2026-3646"
+],
+"users-manager-pn": [
+"CVE-2026-4003"
+],
+"mainwp-child-reports": [
+"CVE-2026-4299"
+],
+"pz-frontend-manager": [
+"CVE-2026-3477"
+],
+"wp-blockade": [
+"CVE-2026-3480"
+],
+"dsgvo-google-web-fonts-gdpr": [
+"CVE-2026-3535"
+],
+"attendance-manager": [
+"CVE-2026-3781"
+],
+"quran-translations": [
+"CVE-2026-4141"
+],
+"gerador-de-certificados-devapps": [
+"CVE-2026-4808"
+],
+"bear-bulk-editor-and-products-manager-professional-for-woocommerce-by-pluginus-net": [
+"CVE-2026-1672",
+"CVE-2026-1673"
+],
+"advanced-members-for-acf": [
+"CVE-2026-3243"
+],
+"advanced-contact-form-7-db": [
+"CVE-2026-0811",
+"CVE-2026-0814",
+"CVE-2026-18594",
+"CVE-2026-6831"
+],
+"prosolution-wp-client": [
+"CVE-2026-2942",
+"CVE-2026-6555",
+"CVE-2026-14524",
+"CVE-2026-16098"
+],
+"vertex-addons-for-elementor": [
+"CVE-2026-4326"
+],
+"ziggeo": [
+"CVE-2026-4124"
+],
+"quick-playground": [
+"CVE-2026-1830",
+"CVE-2026-6403",
+"CVE-2026-2500"
+],
+"wp-optimize": [
+"CVE-2026-2712"
+],
+"gravity-smtp": [
+"CVE-2026-4162"
+],
+"lifterlms": [
+"CVE-2026-5207"
+],
+"learnpress": [
+"CVE-2026-4365",
+"CVE-2026-75982",
+"CVE-2026-77823",
+"CVE-2026-104736"
+],
+"backwpup": [
+"CVE-2026-6227"
+],
+"nexi-xpay": [
+"CVE-2025-15565"
+],
+"inquiry-form-to-posts-or-pages": [
+"CVE-2026-6293"
+],
+"katalogportal-pdf-sync": [
+"CVE-2026-3649"
+],
+"petje-af": [
+"CVE-2026-4002"
+],
+"open-brain": [
+"CVE-2026-4091"
+],
+"product-pricing-table-by-woobewoo": [
+"CVE-2026-1852"
+],
+"basic-google-maps-placemarks": [
+"CVE-2026-3581"
+],
+"riaxe-product-customizer": [
+"CVE-2026-3595",
+"CVE-2026-3596",
+"CVE-2026-3599"
+],
+"acymailing": [
+"CVE-2026-3614"
+],
+"livemesh-addons-for-elementor": [
+"CVE-2026-1620"
+],
+"career-section": [
+"CVE-2025-14868",
+"CVE-2026-6271"
+],
+"directorypress-business-directory-and-classified-ad-listing": [
+"CVE-2026-3489"
+],
+"wp-statistics": [
+"CVE-2026-3488"
+],
+"kubio": [
+"CVE-2026-5427"
+],
+"tutor-lms": [
+"CVE-2026-6080"
+],
+"unlimited-elements-for-elementor": [
+"CVE-2026-4659",
+"CVE-2026-5486",
+"CVE-2026-18561"
+],
+"cms-fuer-motorrad-werkstaetten": [
+"CVE-2026-6451"
+],
+"wp-customer-area": [
+"CVE-2026-3464"
+],
+"cmp-coming-soon-maintenance-plugin-by-niteothemes": [
+"CVE-2026-6518"
+],
+"responsive-blocks-page-builder-for-blocks-patterns": [
+"CVE-2026-6703"
+],
+"inquiry-cart": [
+"CVE-2026-4090"
+],
+"calj": [
+"CVE-2026-4117"
+],
+"call-to-action-plugin": [
+"CVE-2026-4118"
+],
+"create-db-tables": [
+"CVE-2026-4119"
+],
+"kcaptcha": [
+"CVE-2026-4121"
+],
+"tp-restore-categories-and-taxonomies": [
+"CVE-2026-4128"
+],
+"wp-responsive-popup-optin": [
+"CVE-2026-4131"
+],
+"textp2p-texting-widget": [
+"CVE-2026-4133"
+],
+"dx-unanswered-comments": [
+"CVE-2026-4138"
+],
+"mcatfilter": [
+"CVE-2026-4139"
+],
+"ni-woocommerce-order-export": [
+"CVE-2026-4140"
+],
+"breaking-news-wp": [
+"CVE-2026-4280"
+],
+"sendmachine-for-wordpress": [
+"CVE-2026-6235"
+],
+"google-pagerank-display": [
+"CVE-2026-6294"
+],
+"fast-fancy-filter-3f": [
+"CVE-2026-6396"
+],
+"emailchef": [
+"CVE-2026-1930"
+],
+"breeze-cache": [
+"CVE-2026-3844"
+],
+"exactmetrics-google-analytics-dashboard-for-wordpress": [
+"CVE-2026-5488"
+],
+"betterdocs": [
+"CVE-2026-6393"
+],
+"hm-books-gallery": [
+"CVE-2026-5347"
+],
+"drag-and-drop-file-upload-for-contact-form-7": [
+"CVE-2026-5364"
+],
+"taqnix": [
+"CVE-2026-3565"
+],
+"liaison-site-prober": [
+"CVE-2026-3569"
+],
+"complianz-gdpr-ccpa-cookie-consent": [
+"CVE-2026-4019"
+],
+"ultimate-dashboard": [
+"CVE-2026-3140"
+],
+"wp-editor": [
+"CVE-2026-3772"
+],
+"total-upkeep-wordpress-backup-plugin-plus-restore-migrate-by-boldgrid": [
+"CVE-2026-3143"
+],
+"user-registration-advanced-fields": [
+"CVE-2026-4882"
+],
+"wp-mail-gateway": [
+"CVE-2026-6963"
+],
+"profile-builder-pro": [
+"CVE-2026-7647"
+],
+"fundpress-wordpress-donation": [
+"CVE-2026-4650"
+],
+"paid-memberships-pro": [
+"CVE-2026-4100"
+],
+"salon-booking-system-free-version": [
+"CVE-2026-6320",
+"CVE-2026-15070"
+],
+"loco-translate": [
+"CVE-2026-1921",
+"CVE-2026-15005"
+],
+"awp-classifieds": [
+"CVE-2026-5100"
+],
+"dx-sources": [
+"CVE-2026-6700"
+],
+"addfreespace": [
+"CVE-2026-6701"
+],
+"publish-2-ping-fm": [
+"CVE-2026-6702"
+],
+"geeky-bot": [
+"CVE-2026-5294"
+],
+"emailkit": [
+"CVE-2026-5957"
+],
+"elementskit-elementor-addons": [
+"CVE-2026-4362"
+],
+"form-maker-by-10web-mobile-friendly-drag-drop-contact-form-builder": [
+"CVE-2026-3359",
+"CVE-2026-11776",
+"CVE-2026-11777",
+"CVE-2026-15993",
+"CVE-2026-95808"
+],
+"weepie-cookie-allow": [
+"CVE-2026-4304"
+],
+"mercado-pago-payments-for-woocommerce": [
+"CVE-2026-3208"
+],
+"all-in-one-wp-migration-unlimited-extension": [
+"CVE-2026-5753"
+],
+"ninja-tables-easy-data-table-builder": [
+"CVE-2026-2306"
+],
+"fluent-forms": [
+"CVE-2026-6344",
+"CVE-2026-5069",
+"CVE-2026-15178"
+],
+"gravity-bookings-premium": [
+"CVE-2026-1719"
+],
+"forminator-forms": [
+"CVE-2026-6222",
+"CVE-2026-6214",
+"CVE-2026-15748"
+],
+"betterdocs-pro": [
+"CVE-2026-4348",
+"CVE-2026-7515"
+],
+"slider-revolution": [
+"CVE-2026-6692",
+"CVE-2026-9048",
+"CVE-2026-9050"
+],
+"ai-chatbot-workflow-automation-by-aiwu": [
+"CVE-2026-2993",
+"CVE-2026-6803",
+"CVE-2026-6804",
+"CVE-2026-6639"
+],
+"eight-day-week-print-workflow": [
+"CVE-2026-5028"
+],
+"smart-appointment-booking": [
+"CVE-2026-5693"
+],
+"gwd-connect": [
+"CVE-2026-6663"
+],
+"coinbase-commerce-for-contact-form-7": [
+"CVE-2026-6709"
+],
+"skysa-text-ticker-app": [
+"CVE-2026-6710"
+],
+"woo-commerce-minimum-weight": [
+"CVE-2026-6932"
+],
+"forms-rb": [
+"CVE-2026-7050"
+],
+"tm-wordpress-redirection": [
+"CVE-2026-7561"
+],
+"wp-redirection": [
+"CVE-2026-7562"
+],
+"zawgyi-embed": [
+"CVE-2026-7616"
+],
+"motors-car-dealership-classified-listings": [
+"CVE-2026-1934"
+],
+"court-reservation-manage-your-court-bookings-online": [
+"CVE-2026-1250"
+],
+"charitable-donation": [
+"CVE-2026-7619"
+],
+"hostinger-reach-ai-powered-email-marketing-for-wordpress": [
+"CVE-2026-2515"
+],
+"avada-builder": [
+"CVE-2026-4798"
+],
+"rtmkit-addons-for-elementor": [
+"CVE-2026-3425",
+"CVE-2026-3426"
+],
+"my-calendar-accessible-event-manager": [
+"CVE-2026-7525",
+"CVE-2026-6854"
+],
+"latepoint": [
+"CVE-2026-5365"
+],
+"taskbuilder-project-management-task-management-tool-with-kanban-board": [
+"CVE-2026-6225",
+"CVE-2026-12090",
+"CVE-2026-12110",
+"CVE-2026-15267"
+],
+"infusedwoo-pro": [
+"CVE-2026-6506",
+"CVE-2026-6510",
+"CVE-2026-6512",
+"CVE-2026-19892"
+],
+"media-sync": [
+"CVE-2026-6670"
+],
+"database-backup-for-wordpress": [
+"CVE-2026-4029",
+"CVE-2026-4030",
+"CVE-2026-4031"
+],
+"fox-currency-switcher-professional-for-woocommerce": [
+"CVE-2026-4094"
+],
+"smartcat-translator-for-wpml": [
+"CVE-2026-4683"
+],
+"notify-odoo": [
+"CVE-2026-8425"
+],
+"essential-chat-support": [
+"CVE-2026-8681"
+],
+"piotnet-addons-for-elementor-pro": [
+"CVE-2026-4885"
+],
+"piotnet-forms": [
+"CVE-2026-4883"
+],
+"creative-mail-easier-wordpress-woocommerce-email-marketing": [
+"CVE-2026-3985"
+],
+"word-2-cash": [
+"CVE-2026-6395"
+],
+"child-height-predictor-by-ostheimer": [
+"CVE-2026-6400"
+],
+"bottom-bar": [
+"CVE-2026-6401"
+],
+"bigfishgames-syndicate": [
+"CVE-2026-6452"
+],
+"read-more-accordion": [
+"CVE-2026-7472"
+],
+"games-catalog": [
+"CVE-2026-8418"
+],
+"amazon-scraper": [
+"CVE-2026-8419"
+],
+"blogchat-chat-system": [
+"CVE-2026-8420"
+],
+"javibola-custom-theme-test": [
+"CVE-2026-8423"
+],
+"remove-yellow-bgbox": [
+"CVE-2026-8424"
+],
+"typesquare-webfonts-for-conoha": [
+"CVE-2026-8610"
+],
+"xpro-addons-140-widgets-for-elementor": [
+"CVE-2025-15369"
+],
+"boost": [
+"CVE-2026-7637",
+"CVE-2026-9010"
+],
+"advanced-database-cleaner-premium": [
+"CVE-2026-7522"
+],
+"acymailing-an-ultimate-newsletter-plugin-and-marketing-automation-solution-for-wordpress": [
+"CVE-2026-5200",
+"CVE-2026-77807"
+],
+"anomify-ai-anomaly-detection-and-alerting": [
+"CVE-2026-6405"
+],
+"gsheet-for-woo-importer": [
+"CVE-2026-4843"
+],
+"bookingpress-pro": [
+"CVE-2026-6960"
+],
+"wp-erp-pro": [
+"CVE-2026-4834"
+],
+"alfie-feed-plugin": [
+"CVE-2026-4070"
+],
+"location-weather": [
+"CVE-2026-7249"
+],
+"widget-context": [
+"CVE-2026-7615"
+],
+"motopress-hotel-booking": [
+"CVE-2026-8684"
+],
+"woocommerce-paypal-payments": [
+"CVE-2026-9284"
+],
+"yoast-seo": [
+"CVE-2025-14481"
+],
+"cm-ad-changer-a-simple-tool-to-control-and-optimize-your-site-s-banners": [
+"CVE-2026-9236"
+],
+"old-posts-highlighter": [
+"CVE-2026-7614"
+],
+"genzel-breadcrumbs": [
+"CVE-2026-8708"
+],
+"wp-autobuzz": [
+"CVE-2026-8911"
+],
+"auto-making-json-ld": [
+"CVE-2026-8938"
+],
+"search-simple-fields": [
+"CVE-2026-8939"
+],
+"cdn-linker-lite": [
+"CVE-2026-8941"
+],
+"gostats-for-wordpress": [
+"CVE-2026-8943"
+],
+"wp-promoter": [
+"CVE-2026-9014",
+"CVE-2026-8906"
+],
+"query-shortcode": [
+"CVE-2026-9200"
+],
+"enable-jquery-migrate-helper": [
+"CVE-2026-3279"
+],
+"wpbakery-page-builder-addons-by-livemesh": [
+"CVE-2026-3895"
+],
+"livemesh-siteorigin-widgets": [
+"CVE-2026-3896"
+],
+"livemesh-addons-for-beaver-builder": [
+"CVE-2026-3897"
+],
+"metamagic-seo-plugin": [
+"CVE-2026-8942"
+],
+"easy-digital-downloads": [
+"CVE-2026-7533",
+"CVE-2026-12476"
+],
+"crawlomatic-multipage-scraper-post-generator": [
+"CVE-2026-9009"
+],
+"wp-contact-form-7-db-handler": [
+"CVE-2026-6455"
+],
+"smtp2go-for-wordpress-email-made-easy": [
+"CVE-2026-7621"
+],
+"3d-viewer-3d-model-viewer-augmented-reality-virtual-try-on": [
+"CVE-2026-8682"
+],
+"gutenbee-gutenberg-blocks": [
+"CVE-2026-9227"
+],
+"woocommerce-infinite-scroll-and-ajax-pagination": [
+"CVE-2025-11993"
+],
+"rank-math-seo-ai-seo-tools-to-dominate-seo-rankings": [
+"CVE-2025-12714",
+"CVE-2026-1928"
+],
+"wp-travel-pro": [
+"CVE-2026-4290"
+],
+"geo-my-wp": [
+"CVE-2026-9757",
+"CVE-2026-15300",
+"CVE-2026-85200"
+],
+"birdseed": [
+"CVE-2026-4071"
+],
+"remove-meta-boxes-per-user-role": [
+"CVE-2026-8422"
+],
+"jtl-connector-for-woocommerce": [
+"CVE-2026-9234",
+"CVE-2026-78193",
+"CVE-2026-87855"
+],
+"tectite-forms": [
+"CVE-2026-9599"
+],
+"laiser-tag": [
+"CVE-2026-9722"
+],
+"google-plus-one-bottom": [
+"CVE-2026-9723"
+],
+"remove-nofollow-commenter-url": [
+"CVE-2026-9730"
+],
+"armember-premium": [
+"CVE-2026-5073",
+"CVE-2026-5074"
+],
+"emergencywp-dead-man-s-switch-legacy-deliverance": [
+"CVE-2026-9732"
+],
+"sp-project-document-manager": [
+"CVE-2026-10737"
+],
+"masterstudy-lms-pro-plus": [
+"CVE-2026-8653"
+],
+"alba-board": [
+"CVE-2026-7523"
+],
+"admin-columns": [
+"CVE-2026-7654"
+],
+"frontend-user-notes": [
+"CVE-2026-7047"
+],
+"wp-user-manager-user-profile-builder-membership": [
+"CVE-2026-9290"
+],
+"page-list": [
+"CVE-2026-9008"
+],
+"learnpress-backup-migration-tool": [
+"CVE-2026-7565",
+"CVE-2026-7566"
+],
+"learnpress-wordpress-lms-plugin-for-create-and-sell-online-courses": [
+"CVE-2026-8502",
+"CVE-2026-13765",
+"CVE-2026-107744"
+],
+"optincraft-drag-drop-optins-popup-builder-for-wordpress": [
+"CVE-2026-8978"
+],
+"jquery-hover-footnotes": [
+"CVE-2026-10553"
+],
+"ajax-report-comments": [
+"CVE-2026-8902"
+],
+"wp-ultimate-map": [
+"CVE-2026-8907"
+],
+"wpmobi": [
+"CVE-2026-8909"
+],
+"wp-emoticon-rating": [
+"CVE-2026-8910"
+],
+"wp-meta-sort-posts": [
+"CVE-2026-8940"
+],
+"recover-exit-for-woocommerce": [
+"CVE-2026-9662"
+],
+"newsletters": [
+"CVE-2026-3018",
+"CVE-2026-75908"
+],
+"lws-optimize-all-in-one-speed-booster-cache-tools": [
+"CVE-2026-12089"
+],
+"wp-ticket": [
+"CVE-2026-9848"
+],
+"video-conferencing-with-zoom": [
+"CVE-2026-6964"
+],
+"rtmkit": [
+"CVE-2026-5149"
+],
+"premmerce-dev-tools": [
+"CVE-2026-6933"
+],
+"wp-review-slider-pro": [
+"CVE-2026-8443",
+"CVE-2026-8444",
+"CVE-2026-8442",
+"CVE-2026-8441"
+],
+"abandoned-contact-form-7": [
+"CVE-2026-9187"
+],
+"woocommerce-stripe-payment-gateway": [
+"CVE-2026-2381"
+],
+"e2pdf-export-pdf-tool-for-wordpress": [
+"CVE-2026-12407"
+],
+"advanced-order-export-for-woocommerce": [
+"CVE-2026-11360"
+],
+"simple-membership": [
+"CVE-2026-12093",
+"CVE-2026-97337"
+],
+"user-admin-simplifier": [
+"CVE-2026-11775"
+],
+"classified-listing-classified-ads-business-directory": [
+"CVE-2026-10779"
+],
+"woosa-marktplaats-for-woocommerce": [
+"CVE-2026-7547"
+],
+"bogo": [
+"CVE-2026-9013"
+],
+"strabl-a-checkout-solution": [
+"CVE-2026-3640"
+],
+"2download-connector-for-2dl-hosted-checkout": [
+"CVE-2026-6798"
+],
+"wp-go-maps-most-popular-map-plugin": [
+"CVE-2026-12238"
+],
+"simple-file-list": [
+"CVE-2026-11911",
+"CVE-2026-11912",
+"CVE-2026-12119"
+],
+"blue-captcha": [
+"CVE-2026-10552"
+],
+"bulk-seo-image": [
+"CVE-2026-11997"
+],
+"advanced-contact-form-7-compact-db": [
+"CVE-2026-12094"
+],
+"welcome-software-publishing": [
+"CVE-2026-4297"
+],
+"mp-customize-login-page": [
+"CVE-2026-6292"
+],
+"assistio": [
+"CVE-2026-8614"
+],
+"searchplus": [
+"CVE-2026-8617"
+],
+"advance-nav-menu-manager": [
+"CVE-2026-8688"
+],
+"rentmy-real-time-rental-management-plugin": [
+"CVE-2026-8690"
+],
+"clearsale-total": [
+"CVE-2026-8705"
+],
+"osiris-signature-banner": [
+"CVE-2026-8905"
+],
+"devs-accounting-simple-accounting-and-invoicing-solution": [
+"CVE-2026-9172",
+"CVE-2026-9175"
+],
+"wp-forms-connector": [
+"CVE-2026-9178",
+"CVE-2026-9179"
+],
+"24liveblog-live-blog-tool": [
+"CVE-2026-9184"
+],
+"generate-security-txt": [
+"CVE-2026-9616"
+],
+"reviews-and-rating-docplanner": [
+"CVE-2026-9619"
+],
+"book-a-room-event-calendar": [
+"CVE-2026-9721"
+],
+"motordesk": [
+"CVE-2026-9724"
+],
+"gravity-forms-booking": [
+"CVE-2026-2508"
+],
+"hd-quiz": [
+"CVE-2026-13422"
+],
+"product-specifications-for-woocommerce": [
+"CVE-2026-11364"
+],
+"wp-full-stripe-free": [
+"CVE-2026-12432"
+],
+"frisbii-pay": [
+"CVE-2026-3462"
+],
+"pixmagix-wordpress-image-editor": [
+"CVE-2026-11367"
+],
+"premium-addons-for-kingcomposer": [
+"CVE-2026-12349"
+],
+"plugin-for-google-analytics-by-io-technologies": [
+"CVE-2026-8944"
+],
+"export-user-data": [
+"CVE-2026-12240"
+],
+"eventon-wordpress-virtual-event-calendar-plugin": [
+"CVE-2026-9711"
+],
+"givewp": [
+"CVE-2026-11981"
+],
+"youtube-showcase": [
+"CVE-2026-12923"
+],
+"visualizer-tables-charts-manager-with-built-in-ai-generator": [
+"CVE-2026-13468"
+],
+"bookingpress-appointment-booking-pro": [
+"CVE-2026-11823"
+],
+"ninja-forms-the-contact-form-builder-that-grows-with-you": [
+"CVE-2026-1239",
+"CVE-2026-15663",
+"CVE-2026-11363"
+],
+"registrationmagic-user-registration-forms-plugin": [
+"CVE-2026-12158"
+],
+"motors-car-dealership-classified-listings-plugin": [
+"CVE-2026-12435",
+"CVE-2026-16750",
+"CVE-2026-6806"
+],
+"motopress-appointment-booking": [
+"CVE-2026-13454"
+],
+"envo-s-templates-widgets-for-elementor-and-woocommerce": [
+"CVE-2026-11600"
+],
+"houzez-property-feed": [
+"CVE-2026-13357"
+],
+"divi-form-builder": [
+"CVE-2026-5524"
+],
+"cookie-banner-for-gdpr-ccpa-wplp-cookie-consent": [
+"CVE-2026-12920",
+"CVE-2026-14475",
+"CVE-2026-15136"
+],
+"ar-for-wordpress": [
+"CVE-2026-14327"
+],
+"ar-for-woocommerce": [
+"CVE-2026-14352"
+],
+"printcart-web-to-print-product-designer-for-woocommerce": [
+"CVE-2026-9725",
+"CVE-2026-14323"
+],
+"wpfunnels-funnel-builder-for-woocommerce-with-checkout-one-click-upsell": [
+"CVE-2026-14345",
+"CVE-2026-13080"
+],
+"widget-logic-visual": [
+"CVE-2026-14158"
+],
+"jssor-slider-by-jssor-com": [
+"CVE-2026-14244"
+],
+"simple-coherent-form": [
+"CVE-2026-14487"
+],
+"user-management": [
+"CVE-2026-12097"
+],
+"wp-learn-manager": [
+"CVE-2026-12153"
+],
+"whmcs-bridge": [
+"CVE-2026-14489"
+],
+"bulk-order-update-for-woocommerce": [
+"CVE-2026-14500"
+],
+"eventer": [
+"CVE-2026-9700"
+],
+"wp-js-detect": [
+"CVE-2026-9731"
+],
+"recurio-ultimate-subscription-for-woocommerce": [
+"CVE-2026-12936"
+],
+"smash-balloon-social-photo-feed-easy-social-feeds-plugin": [
+"CVE-2026-12002"
+],
+"memberships-and-user-profiles-for-woocommerce-profilegrid-woocommerce-integration": [
+"CVE-2026-11359"
+],
+"age-verification-identity-verification-by-token-of-trust": [
+"CVE-2026-7558"
+],
+"ultimate-wp-popup-builder": [
+"CVE-2026-8848"
+],
+"backup-and-staging-by-wp-time-capsule": [
+"CVE-2026-8996"
+],
+"blocks-for-acf-fields": [
+"CVE-2026-12428"
+],
+"dsgvo-all-in-one-for-wp": [
+"CVE-2026-4298"
+],
+"easy-invoice": [
+"CVE-2026-9021"
+],
+"corvuspay-woocommerce-payment-gateway": [
+"CVE-2026-9028"
+],
+"userswp": [
+"CVE-2026-13492",
+"CVE-2026-19991"
+],
+"post-export-import-with-media": [
+"CVE-2026-13430",
+"CVE-2026-104763",
+"CVE-2026-104764",
+"CVE-2026-110268"
+],
+"super-forms-drag-drop-form-builder": [
+"CVE-2026-14894",
+"CVE-2026-17196",
+"CVE-2026-17609"
+],
+"instant-appointment": [
+"CVE-2026-15282"
+],
+"gutenberg-blocks-with-ai-by-kadence-wp-page-builder-features": [
+"CVE-2026-15286"
+],
+"chat-help-click-to-chat-button-form": [
+"CVE-2026-15291"
+],
+"wp-business-intelligence-lite": [
+"CVE-2026-15293"
+],
+"hide-my-wp-lite": [
+"CVE-2026-13347"
+],
+"easy-appointments": [
+"CVE-2026-11992",
+"CVE-2026-8789",
+"CVE-2026-9232"
+],
+"import-and-export-users-and-customers": [
+"CVE-2026-15026"
+],
+"gw-ai-website-builder": [
+"CVE-2026-1946"
+],
+"invoice123": [
+"CVE-2026-9857"
+],
+"underconstructionpage-pro": [
+"CVE-2026-11426"
+],
+"points-and-rewards-for-woocommerce": [
+"CVE-2026-10628"
+],
+"majestic-support-the-leading-edge-help-desk-customer-support-plugin": [
+"CVE-2026-13262"
+],
+"la-studio-element-kit-for-elementor": [
+"CVE-2026-15338"
+],
+"myparcel": [
+"CVE-2026-8678"
+],
+"solace-extra": [
+"CVE-2026-13250",
+"CVE-2026-18316"
+],
+"booking-package": [
+"CVE-2026-15335",
+"CVE-2026-103423"
+],
+"swiss-toolkit-for-wp": [
+"CVE-2026-2354"
+],
+"surflink-ultimate-link-manager": [
+"CVE-2026-3552"
+],
+"affilia-affiliate-program-referral-tracking-for-wordpress": [
+"CVE-2026-7559"
+],
+"notification-for-telegram": [
+"CVE-2026-7620"
+],
+"catalyst-connect-zoho-crm-client-portal": [
+"CVE-2025-5017"
+],
+"wallet-for-woocommerce": [
+"CVE-2026-12103"
+],
+"wp-easy-pay-payment-and-donation-form-builder-for-square": [
+"CVE-2026-12738",
+"CVE-2026-12739"
+],
+"wcfm-frontend-manager-for-woocommerce": [
+"CVE-2026-12994"
+],
+"w3-total-cache": [
+"CVE-2026-9282"
+],
+"genolve-ai-image-ai-video-generation": [
+"CVE-2026-1359"
+],
+"foodbook-lite-online-food-ordering-system": [
+"CVE-2026-11802"
+],
+"advance-product-search-voice-ajax-search-for-woocommerce": [
+"CVE-2026-12753"
+],
+"multivendorx-woocommerce-multivendor-marketplace-ai-powered-solutions": [
+"CVE-2026-12941"
+],
+"catch-themes-demo-import": [
+"CVE-2026-15336"
+],
+"seo-booster": [
+"CVE-2026-15445",
+"CVE-2026-15458",
+"CVE-2026-15660"
+],
+"quiz-master-next": [
+"CVE-2026-13767"
+],
+"the-cache-purger": [
+"CVE-2026-15350"
+],
+"themify-builder": [
+"CVE-2026-15407",
+"CVE-2026-75027"
+],
+"wp-tripadvisor-review-slider": [
+"CVE-2026-15651",
+"CVE-2026-11969"
+],
+"wp-bulk-delete": [
+"CVE-2026-15727"
+],
+"ninja-forms-excel-export": [
+"CVE-2026-15160"
+],
+"fense-proxy-vpn-blocker": [
+"CVE-2026-8616"
+],
+"wordpress": [
+"CVE-2026-60137"
+],
+"w3sc-elementor-to-zoho-crm": [
+"CVE-2026-9734"
+],
+"tutor-lms-elementor-addons": [
+"CVE-2026-1372"
+],
+"lumise-product-designer-for-woocommerce": [
+"CVE-2026-9713"
+],
+"ai-copilot-content-generator": [
+"CVE-2026-13009"
+],
+"registrations-for-the-events-calendar": [
+"CVE-2026-13119"
+],
+"mountdev-ai-mcp-connector-for-wordpress": [
+"CVE-2026-15015"
+],
+"gutenkit-blocks": [
+"CVE-2026-15827"
+],
+"premium-packages-sell-digital-products-securely": [
+"CVE-2026-15906",
+"CVE-2026-12800"
+],
+"participants-database": [
+"CVE-2026-11354"
+],
+"payment-plugins-for-stripe-woocommerce": [
+"CVE-2026-12654"
+],
+"eventon-action-user": [
+"CVE-2026-10033"
+],
+"wpforms-pro": [
+"CVE-2026-10818"
+],
+"advanced-form-integration-connect-forms-to-200-apps": [
+"CVE-2026-16587"
+],
+"shoplentor-all-in-one-woocommerce-growth-store-enhancement-plugin": [
+"CVE-2026-16811"
+],
+"chaty-pro": [
+"CVE-2026-6251"
+],
+"wp-fast-total-search-the-power-of-indexed-search": [
+"CVE-2026-12741"
+],
+"truebooker-appointment-booking-and-scheduler-system": [
+"CVE-2026-13161",
+"CVE-2026-14365",
+"CVE-2026-14349"
+],
+"online-scheduling-and-appointment-booking-system-bookly": [
+"CVE-2026-14516",
+"CVE-2026-2520",
+"CVE-2026-12626"
+],
+"pickplugins-question-answer": [
+"CVE-2026-10207"
+],
+"web-directory-free": [
+"CVE-2026-14785"
+],
+"storegrowth-sales-booster": [
+"CVE-2026-13110"
+],
+"chatbot": [
+"CVE-2026-16774"
+],
+"plugin-organizer": [
+"CVE-2026-15304"
+],
+"speedycache": [
+"CVE-2026-5114"
+],
+"wp-photo-album-plus": [
+"CVE-2026-15344"
+],
+"survey-form-block": [
+"CVE-2026-5626"
+],
+"wp-lister-lite-for-ebay": [
+"CVE-2026-11973"
+],
+"spreadsheet-price-changer-for-woocommerce-and-wp-e-commerce-light": [
+"CVE-2025-10656"
+],
+"meta-box-aio": [
+"CVE-2026-14488"
+],
+"klubraum-membership-request": [
+"CVE-2026-4604"
+],
+"improved-save-button": [
+"CVE-2026-16092"
+],
+"fleekdash-v2": [
+"CVE-2026-14356"
+],
+"buddypress": [
+"CVE-2026-1360",
+"CVE-2024-12145"
+],
+"fusewp": [
+"CVE-2026-5582"
+],
+"realtyna-organic-idx-plugin-wpl-real-estate": [
+"CVE-2026-14483"
+],
+"realtyna-organic-idx": [
+"CVE-2026-16236"
+],
+"mailpress": [
+"CVE-2026-18436"
+],
+"pinpoint-booking-system-version-2": [
+"CVE-2026-15403"
+],
+"formgent": [
+"CVE-2026-3141"
+],
+"theme-editor": [
+"CVE-2025-14469"
+],
+"realhomes-memberships": [
+"CVE-2026-10782"
+],
+"database-collation-fix": [
+"CVE-2026-15018"
+],
+"nex-forms-ultimate-form-builder-lite": [
+"CVE-2026-15450"
+],
+"icegram-mailer": [
+"CVE-2026-15951"
+],
+"gsheetconnector-cf7-google-sheets-connector-with-real-time-sync": [
+"CVE-2026-16614"
+],
+"wpvivid-backup-migration": [
+"CVE-2026-17555"
+],
+"cubewp-framework": [
+"CVE-2026-6453",
+"CVE-2026-13339"
+],
+"user-access-manager": [
+"CVE-2026-18352",
+"CVE-2026-15281"
+],
+"dokan": [
+"CVE-2026-8761"
+],
+"page-and-post-restriction": [
+"CVE-2026-12000"
+],
+"tableon-wordpress-posts-table-filterable": [
+"CVE-2026-18881"
+],
+"easy-post-submission": [
+"CVE-2026-4431"
+],
+"askeet": [
+"CVE-2026-5651"
+],
+"material-dashboard": [
+"CVE-2026-6079"
+],
+"lightsync-pro": [
+"CVE-2026-6147"
+],
+"wpformify-stripe-payments-with-form-and-checkout": [
+"CVE-2026-6627"
+],
+"xpro-addons": [
+"CVE-2026-7105"
+],
+"search-analytics-for-wp": [
+"CVE-2026-7444"
+],
+"mailchimp-forms-by-mailmunch": [
+"CVE-2026-7520"
+],
+"layouts-for-wpbakery": [
+"CVE-2026-7726"
+],
+"content-egg-affiliate-product-importer-price-comparison": [
+"CVE-2026-15979",
+"CVE-2026-119087"
+],
+"udimi-tools": [
+"CVE-2026-7456"
+],
+"wisecampaign-woocommerce-conversions-made-easy": [
+"CVE-2026-7529"
+],
+"file-manager": [
+"CVE-2026-15991"
+],
+"ad-inserter-ad-manager-adsense-ads": [
+"CVE-2026-11983",
+"CVE-2026-11984"
+],
+"stream": [
+"CVE-2026-11907"
+],
+"instawp-connect-1-click-wp-staging-migration": [
+"CVE-2026-13457"
+],
+"geodirectory-wp-business-directory-plugin-and-classified-listings-directory": [
+"CVE-2026-19091",
+"CVE-2026-104899"
+],
+"astro-booking-engine": [
+"CVE-2025-10308"
+],
+"affiliate-toolkit-multi-network-affiliate-amazon-product-display": [
+"CVE-2026-12743",
+"CVE-2026-111255"
+],
+"rapisafe-secure-multi-file-upload-for-contact-form-7": [
+"CVE-2026-14484"
+],
+"maxupload-big-file-uploads-increase-maximum-file-upload-size": [
+"CVE-2026-15965"
+],
+"image-uploader-for-welcart": [
+"CVE-2026-16080"
+],
+"invisible-anti-spam-captcha-recaptcha-alternative-for-all-forms": [
+"CVE-2026-16094",
+"CVE-2026-16146"
+],
+"wpml-multilingual-cms": [
+"CVE-2026-12248",
+"CVE-2026-17509"
+],
+"pods-custom-content-types-and-fields": [
+"CVE-2026-19598"
+],
+"link-library": [
+"CVE-2026-18855",
+"CVE-2026-15090"
+],
+"query-wrangler": [
+"CVE-2026-14498"
+],
+"fullscreen-galleria": [
+"CVE-2026-16079"
+],
+"podlove-podcast-publisher": [
+"CVE-2026-16099"
+],
+"kubio-ai-page-builder": [
+"CVE-2026-16779"
+],
+"turnkey-bbpress-by-weavertheme": [
+"CVE-2026-10035"
+],
+"slider-hero": [
+"CVE-2026-17582"
+],
+"user-login-history": [
+"CVE-2026-2283"
+],
+"the-school-management-education-learning-erp": [
+"CVE-2026-9767"
+],
+"wp-travel-engine-tour-booking-plugin-tour-operator-software": [
+"CVE-2026-17087",
+"CVE-2026-9231"
+],
+"wp-compress-instant-performance-speed-optimization": [
+"CVE-2026-17608"
+],
+"gallery-by-bestwebsoft": [
+"CVE-2026-2497"
+],
+"wpadverts-classifieds-plugin": [
+"CVE-2026-11801"
+],
+"ai-agent-by-siteground": [
+"CVE-2026-17153"
+],
+"events-made-easy": [
+"CVE-2026-75963"
+],
+"ws-form-lite-drag-drop-contact-form-builder": [
+"CVE-2026-4703"
+],
+"ppwp-password-protect-pages": [
+"CVE-2026-0551"
+],
+"fundengine-donation-and-crowdfunding-platform": [
+"CVE-2026-75930"
+],
+"wp-project-manager-pro": [
+"CVE-2026-78470"
+],
+"cm-map-locations-visualize-and-share-your-locations-in-a-few-clicks": [
+"CVE-2026-16601"
+],
+"all-in-one-wp-migration-and-backup": [
+"CVE-2026-19949"
+],
+"media-sweep-wordpress-media-cleaner": [
+"CVE-2026-77824"
+],
+"woocommerce-lottery": [
+"CVE-2026-18884"
+],
+"formidable-charts": [
+"CVE-2026-15990"
+],
+"sigma-forms-pro": [
+"CVE-2026-14494"
+],
+"shopping-cart-ecommerce-store": [
+"CVE-2026-17589"
+],
+"persistent-login": [
+"CVE-2026-18752"
+],
+"photo-gallery-by-ays-responsive-image-gallery": [
+"CVE-2026-76006"
+],
+"wp-file-download": [
+"CVE-2026-14982",
+"CVE-2026-14975",
+"CVE-2026-94538"
+],
+"devkit-pro": [
+"CVE-2026-14357"
+],
+"sigmaforms-pro-ai-generated-forms": [
+"CVE-2026-78657"
+],
+"divi-ajax-filter": [
+"CVE-2026-11613"
+],
+"theme-my-login": [
+"CVE-2026-83628"
+],
+"custom-contact-forms": [
+"CVE-2026-75018"
+],
+"ninja-forms-save-progress": [
+"CVE-2026-15550"
+],
+"flamingo": [
+"CVE-2026-12853"
+],
+"edd-product-catalog-feed-by-pixelyoursite": [
+"CVE-2026-9331"
+],
+"event-tickets-and-registration": [
+"CVE-2026-3174",
+"CVE-2026-97634"
+],
+"wp-crowdfunding": [
+"CVE-2026-19944"
+],
+"awesome-support": [
+"CVE-2026-19946"
+],
+"wp-recipe-maker": [
+"CVE-2026-75905"
+],
+"reviso-exporter-for-woocommerce": [
+"CVE-2026-8615"
+],
+"checkout-custom-fields-builder-for-woocommerce": [
+"CVE-2026-19802"
+],
+"wpmr-google-feed-manager-for-woocommerce-sell-on-google-merchant-center-shopping": [
+"CVE-2026-19778"
+],
+"drag-and-drop-file-upload-for-elementor-forms": [
+"CVE-2026-18351"
+],
+"bulk-password-reset": [
+"CVE-2026-14873"
+],
+"direct-download-for-woocommerce": [
+"CVE-2026-15019"
+],
+"builderall-cheetah-for-wp": [
+"CVE-2026-15823"
+],
+"wp-backitup-community-edition": [
+"CVE-2026-18386"
+],
+"booktics-booking-calendar-for-appointments-and-service-businesses": [
+"CVE-2026-11446"
+],
+"otp-login-register-woocommerce": [
+"CVE-2026-12215"
+],
+"sticky-chat-widget": [
+"CVE-2026-15462"
+],
+"mipl-grouped-checkout-fields-for-woocommerce-customize-organize-checkout-fields": [
+"CVE-2026-8778"
+],
+"gamipress": [
+"CVE-2026-15439"
+],
+"smart-marketing-sms-and-newsletters-forms": [
+"CVE-2026-77161"
+],
+"paid-downloads": [
+"CVE-2026-87935"
+],
+"infinitewp-client": [
+"CVE-2026-17576"
+],
+"filter-gallery": [
+"CVE-2026-89138",
+"CVE-2026-89413"
+],
+"wp-multi-store-locator-pro": [
+"CVE-2026-15275"
+],
+"wp-inventory-manager": [
+"CVE-2026-17607",
+"CVE-2026-76005"
+],
+"location-manager": [
+"CVE-2026-85705"
+],
+"divi-essential": [
+"CVE-2026-15760"
+],
+"create": [
+"CVE-2026-13191",
+"CVE-2026-13200"
+],
+"metasync": [
+"CVE-2026-15947"
+],
+"blockspare": [
+"CVE-2026-1242"
+],
+"ibtana-ecommerce-product-addons": [
+"CVE-2026-1984"
+],
+"bread": [
+"CVE-2026-4792"
+],
+"wp-optimizer": [
+"CVE-2026-6295"
+],
+"gopay-for-woocommerce": [
+"CVE-2026-75959"
+],
+"flex-import": [
+"CVE-2026-9615"
+],
+"custom-field-template": [
+"CVE-2026-9855"
+],
+"tiktok": [
+"CVE-2026-18346"
+],
+"datalogics-ecommerce-delivery-datalogics": [
+"CVE-2026-9613"
+],
+"empik-for-woocommerce": [
+"CVE-2026-9766"
+],
+"partial-shipment-for-woocommerce": [
+"CVE-2026-9858"
+],
+"give-tributes": [
+"CVE-2026-19658"
+],
+"image-buzz": [
+"CVE-2025-14484"
+],
+"pixelplay": [
+"CVE-2025-14486"
+],
+"handily": [
+"CVE-2025-14487"
+],
+"bm-content-builder": [
+"CVE-2025-1280",
+"CVE-2025-1281"
+],
+"wp-user-manager": [
+"CVE-2026-18345"
+],
+"rw-elephant-rental-inventory": [
+"CVE-2026-4123"
+],
+"thumbpress": [
+"CVE-2026-7622"
+],
+"husky-products-filter-for-woocommerce-professional": [
+"CVE-2026-92969"
+],
+"product-feed-manager-for-woocommerce-ctx-feed-support-220-shopping-social-channels": [
+"CVE-2026-15095"
+],
+"rename-wp-login-php-to-anything-you-want": [
+"CVE-2026-93368"
+],
+"visual-composer-website-builder": [
+"CVE-2026-12227"
+],
+"custom-thank-you-page-for-woocommerce": [
+"CVE-2026-4806"
+],
+"customer-reviews-for-woocommerce": [
+"CVE-2026-89055"
+],
+"ssl-zen-ssl-certificate-installer-https-redirects": [
+"CVE-2026-17602"
+],
+"request-a-quote-for-woocommerce": [
+"CVE-2026-18143"
+],
+"ultra-addons-for-contact-form-7": [
+"CVE-2026-82901"
+],
+"simply-schedule-appointments": [
+"CVE-2026-89294",
+"CVE-2026-92245"
+],
+"product-designer-app": [
+"CVE-2026-75098"
+],
+"redux-framework": [
+"CVE-2026-88999"
+],
+"prime-mover": [
+"CVE-2026-101888",
+"CVE-2026-101889"
+],
+"dc-woocommerce-multi-vendor": [
+"CVE-2026-12951"
+],
+"wpmobile-app-android-and-ios-app-builder": [
+"CVE-2026-94541"
+],
+"supportcandy-ai-customer-support-ticket-system-live-chatbot-agent": [
+"CVE-2026-94539"
+],
+"beaver-builder-page-builder-drag-and-drop-website-builder": [
+"CVE-2026-95865"
+],
+"photo-reviews-for-woocommerce": [
+"CVE-2026-101923"
+],
+"geodirectory": [
+"CVE-2026-103913"
+],
+"alt-text-ai-automatically-generate-image-alt-text-for-seo-and-accessibility": [
+"CVE-2026-91108"
+],
+"smart-manager-advanced-woocommerce-bulk-edit-inventory-management": [
+"CVE-2026-18443"
+],
+"vikappointments-services-booking-calendar": [
+"CVE-2026-87115"
+],
+"nelio-content-editorial-calendar-social-media-auto-posting": [
+"CVE-2026-94505"
+],
+"bricksforge": [
+"CVE-2026-85097"
+],
+"3d-product-configurator-for-woocommerce": [
+"CVE-2026-103889"
+],
+"hello-plus": [
+"CVE-2026-5727"
+],
+"smart-popup-by-supsystic": [
+"CVE-2026-104023"
+],
+"fv-player-8": [
+"CVE-2026-83526"
+],
+"ppom-product-addons-custom-fields-for-woocommerce": [
+"CVE-2026-104801"
+],
+"wp-booking-system-booking-calendar": [
+"CVE-2026-107712",
+"CVE-2026-111178",
+"CVE-2026-108123",
+"CVE-2026-109368",
+"CVE-2026-109369"
+],
+"cv-builder-professional-resume-builder-saas": [
+"CVE-2026-3717"
+],
+"divi-plus": [
+"CVE-2026-91136"
+],
+"animated-number-counters": [
+"CVE-2026-15399"
+],
+"bp-profile-search": [
+"CVE-2026-104995"
+],
+"abandoned-cart-pro-for-woocommerce": [
+"CVE-2026-102251",
+"CVE-2026-97668"
+],
+"snazzy-social-media-feed": [
+"CVE-2026-110002"
+],
+"age-gate": [
+"CVE-2026-104800"
+],
+"gmedia-photo-gallery": [
+"CVE-2026-96661"
+],
+"hyyan-woocommerce-polylang-integration": [
+"CVE-2026-101926"
+],
+"shopmagic-email-automation-for-wordpress": [
+"CVE-2026-103367"
+],
+"jnews-jeg-elementor-kit": [
+"CVE-2026-103907"
+],
+"mang-board": [
+"CVE-2026-104909",
+"CVE-2026-109219"
+],
+"fv-flowplayer-video-player": [
+"CVE-2026-86461"
+],
+"elementor-website-builder-more-than-just-a-page-builder": [
+"CVE-2026-11905"
+],
+"bulk-page-generator-lpagery": [
+"CVE-2026-110019"
+],
+"klarna-for-woocommerce": [
+"CVE-2026-110590"
+],
+"search-regex": [
+"CVE-2026-104932"
+],
+"sunshine-photo-cart-client-photo-gallery-photo-proofing-for-photographers": [
+"CVE-2026-104730"
+],
+"wsp-mcp-ai-agents-connector": [
+"CVE-2026-109382"
+],
+"wp-map-block": [
+"CVE-2026-19798"
+],
+"fastcache-by-host-it": [
+"CVE-2026-107763"
+],
+"weforms-easy-drag-drop-contact-form-builder-for-wordpress": [
+"CVE-2026-110253"
+],
+"eventon-subscriber": [
+"CVE-2026-93300"
+],
+"music-store-wordpress-ecommerce": [
+"CVE-2026-115497"
+],
+"prime-mover-backup-and-migration": [
+"CVE-2026-115806"
+],
+"kirki": [
+"CVE-2026-75891"
+],
+"membershipworks": [
+"CVE-2026-112355"
+],
+"pie-register-premium": [
+"CVE-2026-84999"
+],
+"animated-text-block": [
+"CVE-2026-116613"
+],
+"contact-manager": [
+"CVE-2026-109218"
+],
+"the-innovative-form-builder-ivyforms": [
+"CVE-2026-109384"
+],
+"related-posts-for-wordpress": [
+"CVE-2026-109979",
+"CVE-2026-109980"
+],
+"rich-showcase-for-google-reviews": [
+"CVE-2026-110020"
+],
+"travelly-tour-travel-booking-manager-for-woocommerce": [
+"CVE-2026-111213"
+],
+"ai-chatbot-for-woocommerce-woowbot": [
+"CVE-2026-111372"
+],
+"clean-login": [
+"CVE-2026-116610"
+],
+"paypal-brasil-para-woocommerce": [
+"CVE-2026-76058"
+],
+"memberpress": [
+"CVE-2026-92797"
+],
+"sendpress-newsletters": [
+"CVE-2026-93855"
+],
+"content-egg": [
+"CVE-2026-119059"
+]
+}
