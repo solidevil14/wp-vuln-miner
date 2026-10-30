@@ -130,3 +130,20 @@ hardened-wave vendors faster than a part-time audit cycle. Winning play =
 weekly cadence (harvest diff -> wave_finder -> immediate audit), not
 one-shot depth. Meanwhile: 2 confirmed findings await submission
 (booking-calendar + wsdesk — both abandoned-track, both real).
+
+## Rotting-hardening round (31 candidates from existing harvest, zero API waste)
+
+- resolved real slugs: wp-ultimate-csv-importer 20K, wp-duplicate-page 60K,
+  hippoo 1K, eyewear-prescription-form 10 (too small, skipped)
+- wp-ultimate-csv-importer 9.3 (major rewrite post-7.37): hardened —
+  sanitize_key upstream kills the hash_key interpolation, LogManager fully
+  prepared, REST gated manage_options
+- wp-duplicate-page 1.8.7: hardened (manage_options + custom cap njt_duplicate_page)
+
+## FOURTH confirmation of the same pattern
+Every researcher-visible wporg surface is already patched. The 0-day windows
+that remain: (1) weekly mid-wave cadence, (2) <1000-install niche plugins
+(pre-wave TrueBooker profile — CVE-assigned when found), (3) THEMES
+(dramatically less audited than plugins), (4) premium/self-hosted products.
+
+Assets on hand: 2 confirmed abandoned-track findings ready for Patchstack.
