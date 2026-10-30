@@ -110,3 +110,23 @@ window = vendors MID-WAVE (1-2 CVEs published, slow patcher, sibling bugs
 not yet fixed). Existing assets: 2 confirmed findings (1 live-vendor
 booking-calendar + 1 abandoned wsdesk), disclosure/ drafts ready for local
 PoC verification + Patchstack submission.
+
+## Mid-wave race, round 1 (Kovak picked B)
+
+- wave_finder.py: 346 mid-wave candidates (1-3 CVEs in 2026-07..10)
+- picked: TrueBooker (3 CVEs in 3 consecutive months, 600 installs, small)
+  + LearnPress (70K) + wp-job-portal (8K) + tainacan re-audit
+- TrueBooker 1.3.1: HARDENED — the 9-CVE wave forced class-level fixes
+  (DB-ownership checks, server-side price validation); helper
+  truebooker_require_customer_owner is real ownership; cart ops bound to
+  visitor session
+- LearnPress 4.4.13 + wp-job-portal 2.7.2: hardened
+- tainacan re-audit: tmp_file traversal already patched in current
+
+## Conclusion
+
+Mid-wave window is narrow: Wordfence/Patchstack full-time researchers
+hardened-wave vendors faster than a part-time audit cycle. Winning play =
+weekly cadence (harvest diff -> wave_finder -> immediate audit), not
+one-shot depth. Meanwhile: 2 confirmed findings await submission
+(booking-calendar + wsdesk — both abandoned-track, both real).
