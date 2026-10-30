@@ -147,3 +147,23 @@ that remain: (1) weekly mid-wave cadence, (2) <1000-install niche plugins
 (dramatically less audited than plugins), (4) premium/self-hosted products.
 
 Assets on hand: 2 confirmed abandoned-track findings ready for Patchstack.
+
+## Big-user hunt (Kovak: gas cari 0 day yang banyak penggunanya)
+
+- Theme harvest (NVD 'wordpress theme', 6 months): 83 CVEs — the theme
+  classes: password-reset takeover (Lenxel CWE-287, Nokri, Consulting),
+  font-upload no-cap (Zella), unauth traversal downloads (Javo Spot,
+  NativeChurch, ChurcHope), unauth object injection (Buzz Stone, Neo).
+  All published = all being hammered.
+- .org themes = FSE blocks (thin surface; auth flows live in companions)
+- DnD Multiple File Upload CF7 (60K): quilted solid (3 patch rounds visible,
+  Oct 2026 fixes — token+hash_equals+realpath everywhere)
+- Mail Mint (7 CVEs, wave accelerating): checked TemplateAction ORDER BY
+  (whitelisted), CampaignController IN() (intval upstream) — the checked
+  spots are hardened; the vendor ships fixes weekly
+
+## Session verdict on big-user 0-days
+Big-install surfaces = a full-time race against Wordfence/Patchstack staff.
+Wins need weekly cadence or the under-watched niches (<1K installs, themes'
+companion plugins, premium). Two abandoned-track findings remain the
+session's shippable assets.
