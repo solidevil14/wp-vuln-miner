@@ -119,6 +119,8 @@ def main():
 
     n_dl = 0
     for p in pool:
+        if p["slug"] in manifest and manifest[p["slug"]].get("status") == "ok":
+            continue  # already downloaded in a previous run
         if n_dl >= args.download and args.download > 0:
             break
         slug = p["slug"]
