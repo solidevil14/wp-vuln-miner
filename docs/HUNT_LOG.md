@@ -51,3 +51,22 @@ order-bound nonce + GET_LOCK serialization — clean), bookingistic
 vulnerabilities.** The browse=new population ships with modern guards.
 The bug-dense population is the aged one (browse=updated, half-maintained
 2020-2022 plugins) — that is batch 2.
+
+## Batch-2 small-slice rounds (per Kovak: little by little)
+
+- slice A (modern aged): widget-for-eventbrite-api, picture-gallery,
+  reepay, wgpwpp, skt-blocks, export-categories, upsell-order-bump,
+  rss-feed-widget, product-blocks, formscrm — 251 findings, all FP
+  (picture-gallery: guest uploads with per-form nonces + sha256 journal;
+  upsell trio: template constants + manage_woocommerce+publish_pages)
+- slice B (fossils >=7y): cp-multi-view-calendar, quick-event-manager,
+  wp-easycart (1035 findings!), groundhogg, seo-booster, wp-plugin-info-card,
+  seo-engine, shipping-zones-by-drawing, woo-exchange-rate, woc-open-close,
+  admin-category-filter, wp-posts-carousel — all FP on manual read
+  (cp-mvc: every path prepared or strtotime->date normalized; its documented
+  design allows any front-end account to edit events — by design, not a bug)
+
+Running total: ~50 plugins deep-dived, 0 confirmed. Code-level surface of
+the reachable population is consistently defended. Strategy shift proposed:
+known-vulnerable-slug adjacency hunting (audit same-author / same-genre code
+around WPScan-listed CVE patterns).

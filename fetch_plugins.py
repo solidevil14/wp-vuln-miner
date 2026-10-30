@@ -75,6 +75,8 @@ def main():
     ap.add_argument("--max-installs", type=int, default=3000)
     ap.add_argument("--max-age-days", type=int, default=365,
                     help="only plugins updated within this window (maintainer alive)")
+    ap.add_argument("--min-added-days", type=int, default=0,
+                    help="only plugins first added >= N days ago (aged code)")
     ap.add_argument("--download", type=int, default=0,
                     help="download N plugins from the filtered set (0 = manifest only)")
     ap.add_argument("--slugs", default="", help="comma-separated specific slugs")
@@ -106,6 +108,8 @@ def main():
                 if not (args.min_installs <= inst <= args.max_installs):
                     continue
                 if days_since(p.get("last_updated")) > args.max_age_days:
+                    continue
+                if days_since(p.get("added")) < args.min_added_days:
                     continue
                 pool.append(p)
             print(f"[*] page {page}: pool={len(pool)}")
