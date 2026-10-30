@@ -167,3 +167,19 @@ Big-install surfaces = a full-time race against Wordfence/Patchstack staff.
 Wins need weekly cadence or the under-watched niches (<1K installs, themes'
 companion plugins, premium). Two abandoned-track findings remain the
 session's shippable assets.
+
+## 'Terbaru + banyak pengguna' round (11 plugins 100K+ updated today)
+
+- picked: password-protected (300K, gate plugin = whole product is auth)
+- password-protected 2.8.6: HARDENED — REST gated (rest_authentication_errors),
+  cookie = HMAC(md5) keyed to hashed password (weak algo, unforgeable without
+  the secret), transient-cookie fallback fail-closed sha256 (post-SEC-003),
+  additional-passwords = out-of-scope premium hook. Vendor self-audited
+  (SEC-001..004 comments).
+- DnD Multiple File Upload CF7 (60K): quilted 3 patch rounds, Oct 2026 fixes
+- Mail Mint (7 CVEs, live wave): checked spots hardened; vendor patches weekly
+
+## FINAL session verdict
+Big-user 0-days = a full-time race. The four remaining windows: weekly
+cadence, <1K-installs niches, themes' companion plugins, premium products.
+Session shippables: 2 confirmed abandoned-track findings in disclosure/.
