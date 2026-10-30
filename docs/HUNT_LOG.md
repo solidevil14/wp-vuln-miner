@@ -70,3 +70,21 @@ Running total: ~50 plugins deep-dived, 0 confirmed. Code-level surface of
 the reachable population is consistently defended. Strategy shift proposed:
 known-vulnerable-slug adjacency hunting (audit same-author / same-genre code
 around WPScan-listed CVE patterns).
+
+## Adjacency round 2 (live repeat-offenders, small-batch tempo)
+
+- wp-directory-kit + nex-forms: CLOSED on wporg, SVN wiped — code unavailable
+- form-maker: Stripe webhook has no signature verification, BUT the route
+  registers only in the premium build (is_free=1 hardcode) — dead for wporg
+  scope (premium-only, unconfirmable without their code)
+- all-in-one-video-gallery: hardened post-CVE (manage_aiovg_options + nonce)
+- geo-mashup: clean (all echoes escaped)
+- tainacan / wp-booking-system: triaged, clean surfaces
+
+**FINDING #2 confirmed: WSDesk <= 1.7.0 (live)**
+~30 admin-level AJAX handlers in class-crm-ajax-functions.php with zero
+current_user_can and 3 nonces total. Destructive actions (single/multiple
+ticket delete incl. bulk wipe, save_props, label/tag/field delete, agent
+edit/remove) registered wp_ajax_* = any Subscriber. Plus CSRF (no nonce).
+CWE-862 + CWE-352. CVSS ~8.1. Details in local disclosure/ (gitignored).
+Public history carries only this redacted note.
