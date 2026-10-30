@@ -1,0 +1,5 @@
+plugins/
+findings/
+manifest.json
+__pycache__/
+*.pyc
