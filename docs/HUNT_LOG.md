@@ -198,3 +198,18 @@ Session shippables: 2 confirmed abandoned-track findings in disclosure/.
      any email -> possible unauth charge on other users' saved cards (CWE-639)
      — blocked pending dynamic test (option/transient mismatch at :341)
 - woowbot + wp-inventory-manager: downloaded, pending audit
+
+## Dissect round 2 (Kovak: gas bedah lagi)
+
+- wp-inventory-manager 2.5.9: CLEAN — both CVE spots fixed with real
+  allowlists (validate_order reducers in item+category classes); the
+  request-override loop skips where/numeric keys; bypass_parse_order flag
+  has no caller (dead add-on hook)
+- woowbot 5.0.3: try-on AI surface FIXED PROPERLY — resolve_image_to_file
+  accepts only tryon_ref_ ids + base64 (the Oct fix that killed the
+  wp-config.php path bug); ensure_image_inline_data's raw-path arm = dead
+  in practice (inputs pre-resolved by the handler); resolver = no URL fetch
+- remaining unexplored: woowbot's 65 chat handlers (functions.php nopriv:
+  keyword/category/email + openai/gemini chat callbacks)
+
+## Running total: ~85 plugins, 2 confirmed findings (booking-calendar, wsdesk)
