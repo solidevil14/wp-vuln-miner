@@ -183,3 +183,18 @@ session's shippable assets.
 Big-user 0-days = a full-time race. The four remaining windows: weekly
 cadence, <1K-installs niches, themes' companion plugins, premium products.
 Session shippables: 2 confirmed abandoned-track findings in disclosure/.
+
+## Niche hunt (Kovak: gas buru — <1K zone)
+
+- niche_hunt.py: 346 wave candidates -> real-slug resolution via search API
+  -> 7 niches found (100-1000 installs)
+- wp-easy-pay 4.5.5 (1000 installs, live, wave=2): TWO statically-proven
+  unauthenticated flaws in the payment module:
+  1. wpep_file_upload (nopriv): unrestricted upload to uploads/ (no mimes,
+     no binding, no cap; public-nonce gate) -> storage/phishing abuse (CWE-434)
+  2. wpep_delete_cof (nopriv): delete arbitrary Square card-on-file via
+     request-supplied ids with site credentials (CWE-862)
+  3. LEAD (unproven): wpep_payment_request writes cof/customer globals from
+     any email -> possible unauth charge on other users' saved cards (CWE-639)
+     — blocked pending dynamic test (option/transient mismatch at :341)
+- woowbot + wp-inventory-manager: downloaded, pending audit
