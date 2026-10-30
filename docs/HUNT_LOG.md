@@ -88,3 +88,25 @@ ticket delete incl. bulk wipe, save_props, label/tag/field delete, agent
 edit/remove) registered wp_ajax_* = any Subscriber. Plus CSRF (no nonce).
 CWE-862 + CWE-352. CVSS ~8.1. Details in local disclosure/ (gitignored).
 Public history carries only this redacted note.
+
+## Install-filtered adjacency round (Kovak: filter yang ada usernya aja)
+
+- install_map: top-48 ranked slugs checked against wporg API
+- REAL slugs resolved: learnpress 70K, all-in-one-video-gallery 20K,
+  wp-job-portal 8K, geo-mashup 1K, tainacan 1K, seo-booster 800,
+  post-export-import 1K, the-events-calendar 600K, smart-slider-3 800K
+- booking-calendar: wporg API now 404 = plugin CLOSED (post-CVE wave);
+  zip still serves = stale installs; report still valid (Patchstack
+  abandoned category) but flagship status downgraded
+- learnpress 4.4.13: hardened (nonce+caps everywhere, 'Fix security' notes)
+- wp-job-portal 2.7.2: hardened (per-method nonces, zywrap/copilot capped)
+- form-maker: dead-end confirmed (is_free=1 hardcode, Stripe route
+  registered only in premium build)
+
+## Strategic conclusion (3rd repetition of the same pattern)
+
+Vendors who just ate a CVE wave are hardened by audit time. The exploitable
+window = vendors MID-WAVE (1-2 CVEs published, slow patcher, sibling bugs
+not yet fixed). Existing assets: 2 confirmed findings (1 live-vendor
+booking-calendar + 1 abandoned wsdesk), disclosure/ drafts ready for local
+PoC verification + Patchstack submission.
