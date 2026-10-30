@@ -213,3 +213,26 @@ Session shippables: 2 confirmed abandoned-track findings in disclosure/.
   keyword/category/email + openai/gemini chat callbacks)
 
 ## Running total: ~85 plugins, 2 confirmed findings (booking-calendar, wsdesk)
+
+## PIVOT: the t3rminux method adopted (Kovak reference: Agentic CVE Hunting Pt 1)
+
+The article's four techniques: attack-surface mapping, PATCH-GAP ANALYSIS
+(the most productive — read the patch DIFF, find the un-hardened sibling),
+pattern-deviation catalogs, live testing. His wins: both AUTHENTICATED
+per-resource-authz gaps, on ONE deep target (Statamic, 12 historical CVEs
+= incomplete-patch breeder), advisories+diffs public on GitHub.
+
+Key insight for our pipeline: WP plugins = advisories behind Patchstack's
+private wall; GITHUB-hosted PHP = full advisory+diff visibility = the
+Statamic recipe applies cleanly.
+
+## Applied immediately: PhpSpreadsheet XmlScanner thread
+
+- 4-CVE batch fix 2026-10-27 (CVE-2026-108357/58/59/60): scanner bypass
+  variants (double-encode TOCTOU, ISO-2022, ODS DoS, SSRF redirect)
+- Read both patch diffs + the post-fix XmlScanner.php @ master
+- THREE candidate gaps mapped for the machine-audit:
+  1. charset blocklist breadth (ISO-2022-CN/KR, x-mac-*, HZ, CP remaps)
+  2. scan-return vs file-re-read consistency (TOCTOU shape)
+  3. NUL-interleaved pattern-check reassembly inside libxml
+- Full thread: disclosure/research-phpspreadsheet-xmlscanner.md
