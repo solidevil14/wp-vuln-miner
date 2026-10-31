@@ -57,3 +57,7 @@ wordpress.org plugin code is GPL and public — static auditing is legal and
 expected. PoCs run exclusively against a local WordPress instance you own.
 Disclosure is coordinated, through CNAs (Patchstack / Wordfence). No probing
 of live third-party sites, ever.
+
+## License
+
+MIT — see [LICENSE](LICENSE).
